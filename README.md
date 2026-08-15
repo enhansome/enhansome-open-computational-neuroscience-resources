@@ -53,7 +53,7 @@ Contributions are VERY welcome!
 
 * Open Hardware - [see this Open Science Resources
   page](https://github.com/asoplata/open-science-resources#open-diy-hardware) ⭐ 134 | 🐛 2 | 📅 2022-08-12
-* [SORTED - a list of interesting science ideas and links (cognitive/neuro & data science)](https://github.com/PTDZ/SORTED) ⭐ 27 | 🐛 0 | 📅 2025-08-10
+* [SORTED - a list of interesting science ideas and links (cognitive/neuro & data science)](https://github.com/PTDZ/SORTED) ⭐ 28 | 🐛 0 | 📅 2025-08-10
 * [Allen Institute for Brain
   Science](https://alleninstitute.org/open-science-tools/)
 * [COMBINE - Computational modeling in biology network](http://co.mbine.org/standards)
@@ -84,7 +84,7 @@ Contributions are VERY welcome!
 
 #### Analysis Software For Electrophysiology
 
-* [Pynapple - "PYthon Neural Analysis Package" for neurophysiological data analysis](https://github.com/pynapple-org/pynapple) ⭐ 376 | 🐛 53 | 🌐 Python | 📅 2026-08-13
+* [Pynapple - "PYthon Neural Analysis Package" for neurophysiological data analysis](https://github.com/pynapple-org/pynapple) ⭐ 376 | 🐛 53 | 🌐 Python | 📅 2026-08-15
 
 * Note: "electrophysiology of neurons" (also called "ephys") is equivalent to the common term "neurophysiology". In neuroscience, unless it is mentioned explicitly, you can safely assume that "electrophysiology" is referring to that of *neuron cells* in particular, as opposed to electrophysiology of *non-neuron brain cells* like astrocytes, glia, etc.
 
@@ -133,7 +133,7 @@ Contributions are VERY welcome!
 
 #### Other Analysis Software
 
-* [DeepLabCut - Markerless pose estimation for quantifying behavior and movement kinematics in neuroscience experiments, using transfer learning from ImageNet-pretrained networks](https://github.com/DeepLabCut/DeepLabCut) ⭐ 5,735 | 🐛 48 | 🌐 Python | 📅 2026-08-14
+* [DeepLabCut - Markerless pose estimation for quantifying behavior and movement kinematics in neuroscience experiments, using transfer learning from ImageNet-pretrained networks](https://github.com/DeepLabCut/DeepLabCut) ⭐ 5,736 | 🐛 48 | 🌐 Python | 📅 2026-08-14
 * [NeuronUnit - Data-driven model validation for neuroscience](https://github.com/scidash/neuronunit) ⭐ 42 | 🐛 62 | 🌐 Jupyter Notebook | 📅 2021-07-18
 * [SpectraVis - Network visualization tool for functional brain connectivity in-browser](https://github.com/NeurophysVis/SpectraVis) ⭐ 37 | 🐛 21 | 🌐 JavaScript | 📅 2022-09-07
 * [bctnet - Brain Connectivity Toolbox for complex-network analysis](https://github.com/brainlife/BCT) ⭐ 31 | 🐛 5 | 🌐 MATLAB | 📅 2020-12-16
@@ -151,7 +151,7 @@ Contributions are VERY welcome!
 
 ### Simulation Software
 
-* [BindsNET - Simulation of spiking neural networks (SNNs) using PyTorch](https://github.com/Hananel-Hazan/bindsnet) ⭐ 1,693 | 🐛 15 | 🌐 Python | 📅 2026-08-09
+* [BindsNET - Simulation of spiking neural networks (SNNs) using PyTorch](https://github.com/Hananel-Hazan/bindsnet) ⭐ 1,694 | 🐛 15 | 🌐 Python | 📅 2026-08-09
 * [Jaxley - Differentiable neuron simulations on CPU, GPU, or TPU. Next-generation biophysical neuron simulator built on the JAX library.](https://github.com/jaxleyverse/jaxley) ⭐ 207 | 🐛 82 | 🌐 Python | 📅 2026-08-14
 * [sPyNNaker - A software package for running PyNN simulations on the SpiNNaker million core neuromorphic machine](https://github.com/SpiNNakerManchester/sPyNNaker) ⭐ 118 | 🐛 101 | 🌐 Python | 📅 2026-08-14
 * [PyRhO - Virtual laboratory for optogenetic simulation. Integrates with NEURON and Brian2 models.](https://github.com/ProjectPyRhO/PyRhO) ⭐ 44 | 🐛 2 | 🌐 Python | 📅 2023-07-24
@@ -377,4 +377,4 @@ Contributions are VERY welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
