@@ -55,7 +55,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T12:02:08Z",
+            "last_commit": "2026-08-16T14:41:38Z",
             "owner": "pynapple-org",
             "repo": "pynapple",
             "stars": 376
@@ -98,7 +98,7 @@
                 "last_commit": "2026-04-27T20:33:25Z",
                 "owner": "MouseLand",
                 "repo": "Kilosort",
-                "stars": 622
+                "stars": 623
               }
             }
           ]
@@ -182,7 +182,7 @@
             "last_commit": "2026-08-09T07:00:29Z",
             "owner": "BindsNET",
             "repo": "bindsnet",
-            "stars": 1694
+            "stars": 1696
           }
         },
         {
@@ -196,7 +196,7 @@
             "last_commit": "2026-08-14T10:25:41Z",
             "owner": "jaxleyverse",
             "repo": "jaxley",
-            "stars": 207
+            "stars": 208
           }
         },
         {
@@ -399,7 +399,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T14:50:44.803Z",
+    "last_updated": "2026-08-16T14:50:59.848Z",
     "original_repository": "asoplata/open-computational-neuroscience-resources",
     "original_repository_sha": "0cfed9ebc1bdcc6e2dff0010872ba8d3a8e3e147",
     "enhanced_repository": "enhansome/enhansome-open-computational-neuroscience-resources",
