@@ -84,7 +84,7 @@ Contributions are VERY welcome!
 
 #### Analysis Software For Electrophysiology
 
-* [Pynapple - "PYthon Neural Analysis Package" for neurophysiological data analysis](https://github.com/pynapple-org/pynapple) ⭐ 376 | 🐛 53 | 🌐 Python | 📅 2026-08-16
+* [Pynapple - "PYthon Neural Analysis Package" for neurophysiological data analysis](https://github.com/pynapple-org/pynapple) ⭐ 376 | 🐛 51 | 🌐 Python | 📅 2026-08-17
 
 * Note: "electrophysiology of neurons" (also called "ephys") is equivalent to the common term "neurophysiology". In neuroscience, unless it is mentioned explicitly, you can safely assume that "electrophysiology" is referring to that of *neuron cells* in particular, as opposed to electrophysiology of *non-neuron brain cells* like astrocytes, glia, etc.
 
@@ -112,8 +112,8 @@ Contributions are VERY welcome!
 <!-- Note: if I'm not using the terms here correctly, then please feel free to offer feedback and correct me where I'm wrong, since I'm not an experimentalist -->
 
 * Calcium Imaging (and other 3D microscopic time-series imaging)
-  * [CaImAn - Calcium Imaging Analysis](https://github.com/flatironinstitute/CaImAn) ⭐ 731 | 🐛 101 | 🌐 Python | 📅 2026-08-02
-  * [suite2p - Fast, scalable calcium imaging pipeline for cell detection (ROI extraction), neuropil correction, signal extraction, and spike deconvolution from two-photon microscopy data](https://github.com/MouseLand/suite2p) ⭐ 467 | 🐛 58 | 🌐 Python | 📅 2026-08-10
+  * [CaImAn - Calcium Imaging Analysis](https://github.com/flatironinstitute/CaImAn) ⭐ 731 | 🐛 102 | 🌐 Python | 📅 2026-08-02
+  * [suite2p - Fast, scalable calcium imaging pipeline for cell detection (ROI extraction), neuropil correction, signal extraction, and spike deconvolution from two-photon microscopy data](https://github.com/MouseLand/suite2p) ⭐ 468 | 🐛 58 | 🌐 Python | 📅 2026-08-10
   * [V-NeuroStack - 3D time stacks for finding patterns in spontaneous activity of neurons in mouse brain slices](https://github.com/anaik12/bvis) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2022-09-02 (This is the only code link I could find for the paper at <https://doi.org/10.1002/jnr.25139> )
 
 * Microscopy (non-time-series images)
@@ -133,7 +133,7 @@ Contributions are VERY welcome!
 
 #### Other Analysis Software
 
-* [DeepLabCut - Markerless pose estimation for quantifying behavior and movement kinematics in neuroscience experiments, using transfer learning from ImageNet-pretrained networks](https://github.com/DeepLabCut/DeepLabCut) ⭐ 5,736 | 🐛 48 | 🌐 Python | 📅 2026-08-17
+* [DeepLabCut - Markerless pose estimation for quantifying behavior and movement kinematics in neuroscience experiments, using transfer learning from ImageNet-pretrained networks](https://github.com/DeepLabCut/DeepLabCut) ⭐ 5,736 | 🐛 49 | 🌐 Python | 📅 2026-08-18
 * [NeuronUnit - Data-driven model validation for neuroscience](https://github.com/scidash/neuronunit) ⭐ 42 | 🐛 62 | 🌐 Jupyter Notebook | 📅 2021-07-18
 * [SpectraVis - Network visualization tool for functional brain connectivity in-browser](https://github.com/NeurophysVis/SpectraVis) ⭐ 37 | 🐛 21 | 🌐 JavaScript | 📅 2022-09-07
 * [bctnet - Brain Connectivity Toolbox for complex-network analysis](https://github.com/brainlife/BCT) ⭐ 31 | 🐛 5 | 🌐 MATLAB | 📅 2020-12-16
@@ -151,9 +151,9 @@ Contributions are VERY welcome!
 
 ### Simulation Software
 
-* [BindsNET - Simulation of spiking neural networks (SNNs) using PyTorch](https://github.com/Hananel-Hazan/bindsnet) ⭐ 1,696 | 🐛 15 | 🌐 Python | 📅 2026-08-09
+* [BindsNET - Simulation of spiking neural networks (SNNs) using PyTorch](https://github.com/Hananel-Hazan/bindsnet) ⭐ 1,697 | 🐛 15 | 🌐 Python | 📅 2026-08-09
 * [Jaxley - Differentiable neuron simulations on CPU, GPU, or TPU. Next-generation biophysical neuron simulator built on the JAX library.](https://github.com/jaxleyverse/jaxley) ⭐ 208 | 🐛 82 | 🌐 Python | 📅 2026-08-14
-* [sPyNNaker - A software package for running PyNN simulations on the SpiNNaker million core neuromorphic machine](https://github.com/SpiNNakerManchester/sPyNNaker) ⭐ 118 | 🐛 102 | 🌐 Python | 📅 2026-08-17
+* [sPyNNaker - A software package for running PyNN simulations on the SpiNNaker million core neuromorphic machine](https://github.com/SpiNNakerManchester/sPyNNaker) ⭐ 118 | 🐛 102 | 🌐 Python | 📅 2026-08-18
 * [PyRhO - Virtual laboratory for optogenetic simulation. Integrates with NEURON and Brian2 models.](https://github.com/ProjectPyRhO/PyRhO) ⭐ 44 | 🐛 2 | 🌐 Python | 📅 2023-07-24
   * [Prometheus - Related docker image for use with PyRhO via "Modelling as a Service"](https://github.com/ProjectPyRhO/Prometheus) ⭐ 0 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-06-15
 * [PyPNS - Python Peripheral Nerve Simulator](https://github.com/chlubba/PyPNS) ⭐ 4 | 🐛 2 | 🌐 Python | 📅 2025-03-30
@@ -377,4 +377,4 @@ Contributions are VERY welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
