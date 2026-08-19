@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 126887765,
             "language": null,
             "last_commit": "2022-08-12T15:33:07Z",
             "owner": "asoplata",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 518545346,
             "language": null,
             "last_commit": "2025-08-10T21:17:42Z",
             "owner": "PTDZ",
@@ -35,372 +37,408 @@
       "title": "Meta-resources"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Pynapple - \"PYthon Neural Analysis Package\" for neurophysiological data analysis",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 420284646,
+                    "language": "Python",
+                    "last_commit": "2026-08-17T17:03:25Z",
+                    "owner": "pynapple-org",
+                    "repo": "pynapple",
+                    "stars": 376
+                  }
+                },
+                {
+                  "node_type": "group",
+                  "title": "(deprecated) OpenElectrophy - Analysis software for electrophysiological data, built on Neo",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "OpenElectrophy's README",
+                      "description": "indicates that it is effectively abandoned, and you should use something else.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 1813560,
+                        "language": "Python",
+                        "last_commit": "2018-07-25T09:43:42Z",
+                        "owner": "OpenElectrophy",
+                        "repo": "OpenElectrophy",
+                        "stars": 34
+                      }
+                    }
+                  ]
+                },
+                {
+                  "node_type": "group",
+                  "title": "Spike Sorting:",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Kilosort - GPU-accelerated spike sorting for large-scale extracellular recordings, widely used with Neuropixels probes",
+                      "description": null,
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 132137449,
+                        "language": "Python",
+                        "last_commit": "2026-04-27T20:33:25Z",
+                        "owner": "MouseLand",
+                        "repo": "Kilosort",
+                        "stars": 623
+                      }
+                    }
+                  ]
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Analysis Software For Electrophysiology"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "DeepLabCut - Markerless pose estimation for quantifying behavior and movement kinematics in neuroscience experiments, using transfer learning from ImageNet-pretrained networks",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 126897385,
+                    "language": "Python",
+                    "last_commit": "2026-08-19T10:05:30Z",
+                    "owner": "DeepLabCut",
+                    "repo": "DeepLabCut",
+                    "stars": 5737
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "NeuronUnit - Data-driven model validation for neuroscience",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 6494521,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2021-07-18T07:39:17Z",
+                    "owner": "scidash",
+                    "repo": "neuronunit",
+                    "stars": 42
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SpectraVis - Network visualization tool for functional brain connectivity in-browser",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 21773434,
+                    "language": "JavaScript",
+                    "last_commit": "2022-09-07T16:49:48Z",
+                    "owner": "NeurophysVis",
+                    "repo": "SpectraVis",
+                    "stars": 37
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "bctnet - Brain Connectivity Toolbox for complex-network analysis",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 322095496,
+                    "language": "MATLAB",
+                    "last_commit": "2020-12-16T21:12:41Z",
+                    "owner": "brainlife",
+                    "repo": "BCT",
+                    "stars": 31
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Other Analysis Software"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Analysis Software"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "BindsNET - Simulation of spiking neural networks (SNNs) using PyTorch",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 120948040,
+                "language": "Python",
+                "last_commit": "2026-08-09T07:00:29Z",
+                "owner": "BindsNET",
+                "repo": "bindsnet",
+                "stars": 1697
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Jaxley - Differentiable neuron simulations on CPU, GPU, or TPU. Next-generation biophysical neuron simulator built on the JAX library.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 615220314,
+                "language": "Python",
+                "last_commit": "2026-08-14T10:25:41Z",
+                "owner": "jaxleyverse",
+                "repo": "jaxley",
+                "stars": 208
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sPyNNaker - A software package for running PyNN simulations on the SpiNNaker million core neuromorphic machine",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20801613,
+                "language": "Python",
+                "last_commit": "2026-08-18T06:21:26Z",
+                "owner": "SpiNNakerManchester",
+                "repo": "sPyNNaker",
+                "stars": 118
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PyRhO - Virtual laboratory for optogenetic simulation. Integrates with NEURON and Brian2 models.",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Prometheus - Related docker image for use with PyRhO via \"Modelling as a Service\"",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 62244157,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2023-06-15T14:55:41Z",
+                    "owner": "ProjectPyRhO",
+                    "repo": "Prometheus",
+                    "stars": 0
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 51864257,
+                "language": "Python",
+                "last_commit": "2023-07-24T10:42:18Z",
+                "owner": "ProjectPyRhO",
+                "repo": "PyRhO",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PyPNS - Python Peripheral Nerve Simulator",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50537117,
+                "language": "Python",
+                "last_commit": "2025-03-30T08:56:29Z",
+                "owner": "chlubba",
+                "repo": "PyPNS",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "NEURON - The most popular computational neuroscience model simulator, focusing on biophysical modelling",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "CoreNeuron - Optimized, simplified NEURON implementation used by the Blue Brain Project. Previously, this was a separate extension, but has now been integrated into standard NEURON",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 53666842,
+                    "language": "C++",
+                    "last_commit": "2023-03-20T10:28:46Z",
+                    "owner": "BlueBrain",
+                    "repo": "CoreNeuron",
+                    "stars": 146
+                  }
+                }
+              ]
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "BluePyOpt - Blue Brain Python Optimisation Library, for optimizing parameters in neural models",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 51756569,
+                    "language": "Python",
+                    "last_commit": "2025-02-26T12:48:21Z",
+                    "owner": "BlueBrain",
+                    "repo": "BluePyOpt",
+                    "stars": 217
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "NSDF - Neuroscience Simulation Data Format, built on HDF5",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 19147815,
+                    "language": "Python",
+                    "last_commit": "2024-11-04T15:32:03Z",
+                    "owner": "nsdf",
+                    "repo": "nsdf",
+                    "stars": 7
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "GIMBL-Vis - Multi-dimensional visualization toolbox; integrates with DynaSim",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 83802432,
+                    "language": "MATLAB",
+                    "last_commit": "2020-08-21T14:04:03Z",
+                    "owner": "erik-roberts",
+                    "repo": "GIMBL-Vis",
+                    "stars": 4
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "BRAHMS - A modular execution framework for executing integrated systems built from component software processes",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 21689838,
+                    "language": "C++",
+                    "last_commit": "2019-04-30T09:19:44Z",
+                    "owner": "BRAHMS-SystemML",
+                    "repo": "brahms",
+                    "stars": 3
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Simulation Data Format and Management Software"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Simulation Software"
+        }
+      ],
       "title": "Open Code"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Analysis Software"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Pynapple - \"PYthon Neural Analysis Package\" for neurophysiological data analysis",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T17:03:25Z",
-            "owner": "pynapple-org",
-            "repo": "pynapple",
-            "stars": 376
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "(deprecated) OpenElectrophy - Analysis software for electrophysiological data, built on Neo",
-          "description": null,
           "children": [
             {
               "node_type": "item",
-              "title": "OpenElectrophy's README",
-              "description": "indicates that it is effectively abandoned, and you should use something else.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2018-07-25T09:43:42Z",
-                "owner": "OpenElectrophy",
-                "repo": "OpenElectrophy",
-                "stars": 34
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Spike Sorting:",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Kilosort - GPU-accelerated spike sorting for large-scale extracellular recordings, widely used with Neuropixels probes",
+              "title": "SONATA format for large-scale, efficient model specification and output data schema of neural simulations, co-developed by Allen Institute for Brain Sciences and Blue Brain Project",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 111609058,
                 "language": "Python",
-                "last_commit": "2026-04-27T20:33:25Z",
-                "owner": "MouseLand",
-                "repo": "Kilosort",
-                "stars": 623
+                "last_commit": "2025-11-24T23:44:07Z",
+                "owner": "AllenInstitute",
+                "repo": "sonata",
+                "stars": 66
               }
-            }
-          ]
-        }
-      ],
-      "title": "Analysis Software For Electrophysiology"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "DeepLabCut - Markerless pose estimation for quantifying behavior and movement kinematics in neuroscience experiments, using transfer learning from ImageNet-pretrained networks",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T14:37:38Z",
-            "owner": "DeepLabCut",
-            "repo": "DeepLabCut",
-            "stars": 5736
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NeuronUnit - Data-driven model validation for neuroscience",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2021-07-18T07:39:17Z",
-            "owner": "scidash",
-            "repo": "neuronunit",
-            "stars": 42
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SpectraVis - Network visualization tool for functional brain connectivity in-browser",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-09-07T16:49:48Z",
-            "owner": "NeurophysVis",
-            "repo": "SpectraVis",
-            "stars": 37
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bctnet - Brain Connectivity Toolbox for complex-network analysis",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "MATLAB",
-            "last_commit": "2020-12-16T21:12:41Z",
-            "owner": "brainlife",
-            "repo": "BCT",
-            "stars": 31
-          }
-        }
-      ],
-      "title": "Other Analysis Software"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "BindsNET - Simulation of spiking neural networks (SNNs) using PyTorch",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-09T07:00:29Z",
-            "owner": "BindsNET",
-            "repo": "bindsnet",
-            "stars": 1697
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Jaxley - Differentiable neuron simulations on CPU, GPU, or TPU. Next-generation biophysical neuron simulator built on the JAX library.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-14T10:25:41Z",
-            "owner": "jaxleyverse",
-            "repo": "jaxley",
-            "stars": 208
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sPyNNaker - A software package for running PyNN simulations on the SpiNNaker million core neuromorphic machine",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T06:21:26Z",
-            "owner": "SpiNNakerManchester",
-            "repo": "sPyNNaker",
-            "stars": 118
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PyRhO - Virtual laboratory for optogenetic simulation. Integrates with NEURON and Brian2 models.",
-          "description": null,
-          "children": [
+            },
             {
               "node_type": "item",
-              "title": "Prometheus - Related docker image for use with PyRhO via \"Modelling as a Service\"",
+              "title": "NSDF - Neuroscience Simulation Data Format, built on top of HDF5",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "Jupyter Notebook",
-                "last_commit": "2023-06-15T14:55:41Z",
-                "owner": "ProjectPyRhO",
-                "repo": "Prometheus",
-                "stars": 0
+                "id": 19147815,
+                "language": "Python",
+                "last_commit": "2024-11-04T15:32:03Z",
+                "owner": "nsdf",
+                "repo": "nsdf",
+                "stars": 7
               }
+            },
+            {
+              "node_type": "group",
+              "title": "Neurodata Without Borders: Neurophysiology (NWB:N) data standard for neurophysiology, including intracellular, extracellular, optical physiology, tracking, and stimulus data",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ndx-simulation-output Large-scale simulation data scheme extenstion to NWB:N",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 191824137,
+                    "language": "Python",
+                    "last_commit": "2020-11-12T17:05:40Z",
+                    "owner": "catalystneuro",
+                    "repo": "ndx-simulation-output",
+                    "stars": 4
+                  }
+                }
+              ]
             }
           ],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-07-24T10:42:18Z",
-            "owner": "ProjectPyRhO",
-            "repo": "PyRhO",
-            "stars": 44
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PyPNS - Python Peripheral Nerve Simulator",
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-03-30T08:56:29Z",
-            "owner": "chlubba",
-            "repo": "PyPNS",
-            "stars": 4
-          }
-        },
-        {
           "node_type": "group",
-          "title": "NEURON - The most popular computational neuroscience model simulator, focusing on biophysical modelling",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "CoreNeuron - Optimized, simplified NEURON implementation used by the Blue Brain Project. Previously, this was a separate extension, but has now been integrated into standard NEURON",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "C++",
-                "last_commit": "2023-03-20T10:28:46Z",
-                "owner": "BlueBrain",
-                "repo": "CoreNeuron",
-                "stars": 146
-              }
-            }
-          ]
+          "title": "Open Data Schema"
         }
       ],
-      "title": "Simulation Software"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "BluePyOpt - Blue Brain Python Optimisation Library, for optimizing parameters in neural models",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2025-02-26T12:48:21Z",
-            "owner": "BlueBrain",
-            "repo": "BluePyOpt",
-            "stars": 217
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NSDF - Neuroscience Simulation Data Format, built on HDF5",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-11-04T15:32:03Z",
-            "owner": "nsdf",
-            "repo": "nsdf",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GIMBL-Vis - Multi-dimensional visualization toolbox; integrates with DynaSim",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "MATLAB",
-            "last_commit": "2020-08-21T14:04:03Z",
-            "owner": "erik-roberts",
-            "repo": "GIMBL-Vis",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BRAHMS - A modular execution framework for executing integrated systems built from component software processes",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2019-04-30T09:19:44Z",
-            "owner": "BRAHMS-SystemML",
-            "repo": "brahms",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Simulation Data Format and Management Software"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "SONATA format for large-scale, efficient model specification and output data schema of neural simulations, co-developed by Allen Institute for Brain Sciences and Blue Brain Project",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-11-24T23:44:07Z",
-            "owner": "AllenInstitute",
-            "repo": "sonata",
-            "stars": 66
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NSDF - Neuroscience Simulation Data Format, built on top of HDF5",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-11-04T15:32:03Z",
-            "owner": "nsdf",
-            "repo": "nsdf",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "Neurodata Without Borders: Neurophysiology (NWB:N) data standard for neurophysiology, including intracellular, extracellular, optical physiology, tracking, and stimulus data",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ndx-simulation-output Large-scale simulation data scheme extenstion to NWB:N",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2020-11-12T17:05:40Z",
-                "owner": "catalystneuro",
-                "repo": "ndx-simulation-output",
-                "stars": 4
-              }
-            }
-          ]
-        }
-      ],
-      "title": "Open Data Schema"
+      "title": "Open Data"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T15:03:01.580Z",
+    "last_updated": "2026-08-19T12:44:45.053Z",
     "original_repository": "asoplata/open-computational-neuroscience-resources",
+    "original_repository_id": 126888001,
     "original_repository_sha": "0cfed9ebc1bdcc6e2dff0010872ba8d3a8e3e147",
     "enhanced_repository": "enhansome/enhansome-open-computational-neuroscience-resources",
     "enhanced_repository_description": null,

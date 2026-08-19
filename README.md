@@ -112,7 +112,7 @@ Contributions are VERY welcome!
 <!-- Note: if I'm not using the terms here correctly, then please feel free to offer feedback and correct me where I'm wrong, since I'm not an experimentalist -->
 
 * Calcium Imaging (and other 3D microscopic time-series imaging)
-  * [CaImAn - Calcium Imaging Analysis](https://github.com/flatironinstitute/CaImAn) ⭐ 731 | 🐛 102 | 🌐 Python | 📅 2026-08-02
+  * [CaImAn - Calcium Imaging Analysis](https://github.com/flatironinstitute/CaImAn) ⭐ 731 | 🐛 101 | 🌐 Python | 📅 2026-08-02
   * [suite2p - Fast, scalable calcium imaging pipeline for cell detection (ROI extraction), neuropil correction, signal extraction, and spike deconvolution from two-photon microscopy data](https://github.com/MouseLand/suite2p) ⭐ 468 | 🐛 58 | 🌐 Python | 📅 2026-08-10
   * [V-NeuroStack - 3D time stacks for finding patterns in spontaneous activity of neurons in mouse brain slices](https://github.com/anaik12/bvis) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2022-09-02 (This is the only code link I could find for the paper at <https://doi.org/10.1002/jnr.25139> )
 
@@ -133,7 +133,7 @@ Contributions are VERY welcome!
 
 #### Other Analysis Software
 
-* [DeepLabCut - Markerless pose estimation for quantifying behavior and movement kinematics in neuroscience experiments, using transfer learning from ImageNet-pretrained networks](https://github.com/DeepLabCut/DeepLabCut) ⭐ 5,736 | 🐛 49 | 🌐 Python | 📅 2026-08-18
+* [DeepLabCut - Markerless pose estimation for quantifying behavior and movement kinematics in neuroscience experiments, using transfer learning from ImageNet-pretrained networks](https://github.com/DeepLabCut/DeepLabCut) ⭐ 5,737 | 🐛 51 | 🌐 Python | 📅 2026-08-19
 * [NeuronUnit - Data-driven model validation for neuroscience](https://github.com/scidash/neuronunit) ⭐ 42 | 🐛 62 | 🌐 Jupyter Notebook | 📅 2021-07-18
 * [SpectraVis - Network visualization tool for functional brain connectivity in-browser](https://github.com/NeurophysVis/SpectraVis) ⭐ 37 | 🐛 21 | 🌐 JavaScript | 📅 2022-09-07
 * [bctnet - Brain Connectivity Toolbox for complex-network analysis](https://github.com/brainlife/BCT) ⭐ 31 | 🐛 5 | 🌐 MATLAB | 📅 2020-12-16
@@ -377,4 +377,4 @@ Contributions are VERY welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
