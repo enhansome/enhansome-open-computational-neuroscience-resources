@@ -121,7 +121,7 @@
                     "last_commit": "2026-08-21T08:56:48Z",
                     "owner": "DeepLabCut",
                     "repo": "DeepLabCut",
-                    "stars": 5742
+                    "stars": 5743
                   }
                 },
                 {
@@ -436,7 +436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T15:04:59.751Z",
+    "last_updated": "2026-08-22T14:50:08.803Z",
     "original_repository": "asoplata/open-computational-neuroscience-resources",
     "original_repository_id": 126888001,
     "original_repository_sha": "0cfed9ebc1bdcc6e2dff0010872ba8d3a8e3e147",
