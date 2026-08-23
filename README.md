@@ -25,7 +25,7 @@ and a modern personal computer.**
 Note: This is intended as a list of resources to help with *neuroscientific*
 pursuits (trying to understand the brain as it exists), as opposed to *artificial intelligence* or *machine learning* pursuits (using brain-inspired mathematics and properties to engineer systems meant to accomplish a particular task). [More broadly, I've
 made a similar repo-list of general open science resources
-here](https://github.com/asoplata/open-science-resources) ⭐ 134 | 🐛 2 | 📅 2022-08-12.
+here](https://github.com/asoplata/open-science-resources) ⭐ 135 | 🐛 2 | 📅 2022-08-12.
 
 Contributions are VERY welcome!
 
@@ -52,7 +52,7 @@ Contributions are VERY welcome!
 ## Meta-resources
 
 * Open Hardware - [see this Open Science Resources
-  page](https://github.com/asoplata/open-science-resources#open-diy-hardware) ⭐ 134 | 🐛 2 | 📅 2022-08-12
+  page](https://github.com/asoplata/open-science-resources#open-diy-hardware) ⭐ 135 | 🐛 2 | 📅 2022-08-12
 * [SORTED - a list of interesting science ideas and links (cognitive/neuro & data science)](https://github.com/PTDZ/SORTED) ⭐ 27 | 🐛 0 | 📅 2025-08-10
 * [Allen Institute for Brain
   Science](https://alleninstitute.org/open-science-tools/)
@@ -112,7 +112,7 @@ Contributions are VERY welcome!
 <!-- Note: if I'm not using the terms here correctly, then please feel free to offer feedback and correct me where I'm wrong, since I'm not an experimentalist -->
 
 * Calcium Imaging (and other 3D microscopic time-series imaging)
-  * [CaImAn - Calcium Imaging Analysis](https://github.com/flatironinstitute/CaImAn) ⭐ 731 | 🐛 101 | 🌐 Python | 📅 2026-08-02
+  * [CaImAn - Calcium Imaging Analysis](https://github.com/flatironinstitute/CaImAn) ⭐ 732 | 🐛 101 | 🌐 Python | 📅 2026-08-02
   * [suite2p - Fast, scalable calcium imaging pipeline for cell detection (ROI extraction), neuropil correction, signal extraction, and spike deconvolution from two-photon microscopy data](https://github.com/MouseLand/suite2p) ⭐ 470 | 🐛 58 | 🌐 Python | 📅 2026-08-19
   * [V-NeuroStack - 3D time stacks for finding patterns in spontaneous activity of neurons in mouse brain slices](https://github.com/anaik12/bvis) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2022-09-02 (This is the only code link I could find for the paper at <https://doi.org/10.1002/jnr.25139> )
 
@@ -220,7 +220,7 @@ Contributions are VERY welcome!
   science data repositories that may contain neuroscience data like
   [re3data](https://www.re3data.org/search?query=neuroscience), [see this Open
   Science Resources
-  page](https://github.com/asoplata/open-science-resources#open-data-repositories-and-services) ⭐ 134 | 🐛 2 | 📅 2022-08-12
+  page](https://github.com/asoplata/open-science-resources#open-data-repositories-and-services) ⭐ 135 | 🐛 2 | 📅 2022-08-12
 * [3D Brain Atlas Reconstructor](http://www.3dbars.org/)
 * [Allen Brain Atlas Data Portal](http://brain-map.org/)
   * [More detail
@@ -377,4 +377,4 @@ Contributions are VERY welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
