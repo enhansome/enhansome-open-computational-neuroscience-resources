@@ -97,7 +97,7 @@
                         "last_commit": "2026-04-27T20:33:25Z",
                         "owner": "MouseLand",
                         "repo": "Kilosort",
-                        "stars": 623
+                        "stars": 624
                       }
                     }
                   ]
@@ -110,6 +110,65 @@
             {
               "children": [
                 {
+                  "node_type": "group",
+                  "title": "Calcium Imaging (and other 3D microscopic time-series imaging)",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "CaImAn - Calcium Imaging Analysis",
+                      "description": null,
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 40307735,
+                        "language": "Python",
+                        "last_commit": "2026-08-02T21:54:19Z",
+                        "owner": "flatironinstitute",
+                        "repo": "CaImAn",
+                        "stars": 734
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "suite2p - Fast, scalable calcium imaging pipeline for cell detection (ROI extraction), neuropil correction, signal extraction, and spike deconvolution from two-photon microscopy data",
+                      "description": null,
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 141175642,
+                        "language": "Python",
+                        "last_commit": "2026-08-23T18:10:35Z",
+                        "owner": "MouseLand",
+                        "repo": "suite2p",
+                        "stars": 470
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "V-NeuroStack - 3D time stacks for finding patterns in spontaneous activity of neurons in mouse brain slices",
+                      "description": "(This is the only code link I could find for the paper at https://doi.org/10.1002/jnr.25139 )",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 174220413,
+                        "language": "JavaScript",
+                        "last_commit": "2022-09-02T17:20:36Z",
+                        "owner": "anaik12",
+                        "repo": "bvis",
+                        "stars": 0
+                      }
+                    }
+                  ]
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Analysis Software For Imaging"
+            },
+            {
+              "children": [
+                {
                   "node_type": "item",
                   "title": "DeepLabCut - Markerless pose estimation for quantifying behavior and movement kinematics in neuroscience experiments, using transfer learning from ImageNet-pretrained networks",
                   "description": null,
@@ -118,10 +177,10 @@
                     "archived": false,
                     "id": 126897385,
                     "language": "Python",
-                    "last_commit": "2026-08-21T08:56:48Z",
+                    "last_commit": "2026-08-24T12:44:02Z",
                     "owner": "DeepLabCut",
                     "repo": "DeepLabCut",
-                    "stars": 5743
+                    "stars": 5745
                   }
                 },
                 {
@@ -373,6 +432,21 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "This only lists neuroscience-specific open data repositories. For general science data repositories that may contain neuroscience data like re3data",
+          "description": ", see this Open Science Resources page",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 126887765,
+            "language": null,
+            "last_commit": "2022-08-12T15:33:07Z",
+            "owner": "asoplata",
+            "repo": "open-science-resources",
+            "stars": 135
+          }
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -436,7 +510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:51:37.660Z",
+    "last_updated": "2026-08-24T14:21:17.438Z",
     "original_repository": "asoplata/open-computational-neuroscience-resources",
     "original_repository_id": 126888001,
     "original_repository_sha": "0cfed9ebc1bdcc6e2dff0010872ba8d3a8e3e147",

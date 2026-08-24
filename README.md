@@ -102,7 +102,7 @@ Contributions are VERY welcome!
   \- SpykeViewer can consume electrophysiology data loaded by [Neo](http://neuralensemble.org/neo/)
 
 * Spike Sorting:
-  * [Kilosort - GPU-accelerated spike sorting for large-scale extracellular recordings, widely used with Neuropixels probes](https://github.com/MouseLand/Kilosort) ⭐ 623 | 🐛 15 | 🌐 Python | 📅 2026-04-27
+  * [Kilosort - GPU-accelerated spike sorting for large-scale extracellular recordings, widely used with Neuropixels probes](https://github.com/MouseLand/Kilosort) ⭐ 624 | 🐛 15 | 🌐 Python | 📅 2026-04-27
   * [Comparison of Spike Sorting Software - lists MANY tools and their properties. Last updated in 2017 so probably out of date.](https://simonster.github.io/SpikeSortingSoftware/)
   * [SpikeInterface - Spike sorting analysis specifically made for compatibility
     between different sorting algorithms, part of the Open Ephys project](https://open-ephys.org/spikeinterface)
@@ -112,8 +112,8 @@ Contributions are VERY welcome!
 <!-- Note: if I'm not using the terms here correctly, then please feel free to offer feedback and correct me where I'm wrong, since I'm not an experimentalist -->
 
 * Calcium Imaging (and other 3D microscopic time-series imaging)
-  * [CaImAn - Calcium Imaging Analysis](https://github.com/flatironinstitute/CaImAn) ⭐ 732 | 🐛 101 | 🌐 Python | 📅 2026-08-02
-  * [suite2p - Fast, scalable calcium imaging pipeline for cell detection (ROI extraction), neuropil correction, signal extraction, and spike deconvolution from two-photon microscopy data](https://github.com/MouseLand/suite2p) ⭐ 470 | 🐛 58 | 🌐 Python | 📅 2026-08-19
+  * [CaImAn - Calcium Imaging Analysis](https://github.com/flatironinstitute/CaImAn) ⭐ 734 | 🐛 101 | 🌐 Python | 📅 2026-08-02
+  * [suite2p - Fast, scalable calcium imaging pipeline for cell detection (ROI extraction), neuropil correction, signal extraction, and spike deconvolution from two-photon microscopy data](https://github.com/MouseLand/suite2p) ⭐ 470 | 🐛 58 | 🌐 Python | 📅 2026-08-23
   * [V-NeuroStack - 3D time stacks for finding patterns in spontaneous activity of neurons in mouse brain slices](https://github.com/anaik12/bvis) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2022-09-02 (This is the only code link I could find for the paper at <https://doi.org/10.1002/jnr.25139> )
 
 * Microscopy (non-time-series images)
@@ -133,7 +133,7 @@ Contributions are VERY welcome!
 
 #### Other Analysis Software
 
-* [DeepLabCut - Markerless pose estimation for quantifying behavior and movement kinematics in neuroscience experiments, using transfer learning from ImageNet-pretrained networks](https://github.com/DeepLabCut/DeepLabCut) ⭐ 5,743 | 🐛 52 | 🌐 Python | 📅 2026-08-21
+* [DeepLabCut - Markerless pose estimation for quantifying behavior and movement kinematics in neuroscience experiments, using transfer learning from ImageNet-pretrained networks](https://github.com/DeepLabCut/DeepLabCut) ⭐ 5,745 | 🐛 52 | 🌐 Python | 📅 2026-08-24
 * [NeuronUnit - Data-driven model validation for neuroscience](https://github.com/scidash/neuronunit) ⭐ 42 | 🐛 62 | 🌐 Jupyter Notebook | 📅 2021-07-18
 * [SpectraVis - Network visualization tool for functional brain connectivity in-browser](https://github.com/NeurophysVis/SpectraVis) ⭐ 37 | 🐛 21 | 🌐 JavaScript | 📅 2022-09-07
 * [bctnet - Brain Connectivity Toolbox for complex-network analysis](https://github.com/brainlife/BCT) ⭐ 31 | 🐛 5 | 🌐 MATLAB | 📅 2020-12-16
@@ -377,4 +377,4 @@ Contributions are VERY welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
