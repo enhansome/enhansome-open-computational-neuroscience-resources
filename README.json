@@ -55,7 +55,7 @@
                     "last_commit": "2026-08-20T11:35:04Z",
                     "owner": "pynapple-org",
                     "repo": "pynapple",
-                    "stars": 376
+                    "stars": 379
                   }
                 },
                 {
@@ -177,7 +177,7 @@
                     "archived": false,
                     "id": 126897385,
                     "language": "Python",
-                    "last_commit": "2026-08-25T12:02:01Z",
+                    "last_commit": "2026-08-26T12:46:37Z",
                     "owner": "DeepLabCut",
                     "repo": "DeepLabCut",
                     "stars": 5745
@@ -279,10 +279,10 @@
                 "archived": false,
                 "id": 20801613,
                 "language": "Python",
-                "last_commit": "2026-08-20T09:16:32Z",
+                "last_commit": "2026-08-26T06:09:41Z",
                 "owner": "SpiNNakerManchester",
                 "repo": "sPyNNaker",
-                "stars": 118
+                "stars": 119
               }
             },
             {
@@ -510,7 +510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T15:23:04.955Z",
+    "last_updated": "2026-08-26T16:01:44.127Z",
     "original_repository": "asoplata/open-computational-neuroscience-resources",
     "original_repository_id": 126888001,
     "original_repository_sha": "0cfed9ebc1bdcc6e2dff0010872ba8d3a8e3e147",
