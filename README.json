@@ -52,7 +52,7 @@
                     "archived": false,
                     "id": 420284646,
                     "language": "Python",
-                    "last_commit": "2026-08-20T11:35:04Z",
+                    "last_commit": "2026-08-27T17:13:24Z",
                     "owner": "pynapple-org",
                     "repo": "pynapple",
                     "stars": 379
@@ -177,7 +177,7 @@
                     "archived": false,
                     "id": 126897385,
                     "language": "Python",
-                    "last_commit": "2026-08-27T11:00:57Z",
+                    "last_commit": "2026-08-27T15:02:35Z",
                     "owner": "DeepLabCut",
                     "repo": "DeepLabCut",
                     "stars": 5745
@@ -279,7 +279,7 @@
                 "archived": false,
                 "id": 20801613,
                 "language": "Python",
-                "last_commit": "2026-08-27T10:39:42Z",
+                "last_commit": "2026-08-27T15:51:19Z",
                 "owner": "SpiNNakerManchester",
                 "repo": "sPyNNaker",
                 "stars": 119
@@ -510,7 +510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:00:42.486Z",
+    "last_updated": "2026-08-27T23:53:29.023Z",
     "original_repository_info": {
       "archived": false,
       "id": 126888001,
