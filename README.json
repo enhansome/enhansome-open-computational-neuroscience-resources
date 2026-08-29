@@ -824,7 +824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:39:33.013Z",
+    "last_updated": "2026-08-29T17:49:51.882Z",
     "original_repository_info": {
       "archived": false,
       "description": "A publicly-editable collection of open computational neuroscience resources",
@@ -836,7 +836,7 @@
       "open_issues": 5,
       "owner": "asoplata",
       "repo": "open-computational-neuroscience-resources",
-      "stars": 710,
+      "stars": 711,
       "topics": [
         "awesome",
         "awesome-list",
