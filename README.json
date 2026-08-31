@@ -98,8 +98,8 @@
                     "id": 420284646,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-08-27T17:13:24Z",
-                    "open_issues": 51,
+                    "last_commit": "2026-08-31T20:14:00Z",
+                    "open_issues": 54,
                     "owner": "pynapple-org",
                     "repo": "pynapple",
                     "stars": 379,
@@ -159,7 +159,7 @@
                         "open_issues": 15,
                         "owner": "MouseLand",
                         "repo": "Kilosort",
-                        "stars": 624,
+                        "stars": 625,
                         "topics": [
                           "electrophysiology",
                           "neuroscience",
@@ -277,11 +277,11 @@
                     "id": 126897385,
                     "language": "Python",
                     "license": "LGPL-3.0",
-                    "last_commit": "2026-08-28T15:45:38Z",
-                    "open_issues": 51,
+                    "last_commit": "2026-08-31T16:29:29Z",
+                    "open_issues": 43,
                     "owner": "DeepLabCut",
                     "repo": "DeepLabCut",
-                    "stars": 5746,
+                    "stars": 5751,
                     "topics": [
                       "animal-pose-estimation",
                       "behavior-analysis",
@@ -396,8 +396,8 @@
                 "id": 120948040,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-29T18:26:22Z",
-                "open_issues": 15,
+                "last_commit": "2026-08-31T20:17:41Z",
+                "open_issues": 10,
                 "owner": "BindsNET",
                 "repo": "bindsnet",
                 "stars": 1695,
@@ -433,7 +433,7 @@
                 "open_issues": 82,
                 "owner": "jaxleyverse",
                 "repo": "jaxley",
-                "stars": 209,
+                "stars": 210,
                 "topics": [
                   "biophysics",
                   "differentiable-simulations",
@@ -460,7 +460,7 @@
                 "open_issues": 103,
                 "owner": "SpiNNakerManchester",
                 "repo": "sPyNNaker",
-                "stars": 119,
+                "stars": 120,
                 "topics": [
                   "c",
                   "examples",
@@ -824,7 +824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T18:09:49.666Z",
+    "last_updated": "2026-08-31T20:18:03.349Z",
     "original_repository_info": {
       "archived": false,
       "description": "A publicly-editable collection of open computational neuroscience resources",
@@ -836,7 +836,7 @@
       "open_issues": 5,
       "owner": "asoplata",
       "repo": "open-computational-neuroscience-resources",
-      "stars": 711,
+      "stars": 710,
       "topics": [
         "awesome",
         "awesome-list",
