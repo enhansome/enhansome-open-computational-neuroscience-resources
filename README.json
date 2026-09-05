@@ -281,7 +281,7 @@
                     "open_issues": 43,
                     "owner": "DeepLabCut",
                     "repo": "DeepLabCut",
-                    "stars": 5757,
+                    "stars": 5759,
                     "topics": [
                       "animal-pose-estimation",
                       "behavior-analysis",
@@ -400,7 +400,7 @@
                 "open_issues": 17,
                 "owner": "BindsNET",
                 "repo": "bindsnet",
-                "stars": 1695,
+                "stars": 1696,
                 "topics": [
                   "dynamic",
                   "gpu-computing",
@@ -430,7 +430,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-03T16:08:46Z",
-                "open_issues": 82,
+                "open_issues": 83,
                 "owner": "jaxleyverse",
                 "repo": "jaxley",
                 "stars": 212,
@@ -824,7 +824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T17:44:04.101Z",
+    "last_updated": "2026-09-05T16:54:48.446Z",
     "original_repository_info": {
       "archived": false,
       "description": "A publicly-editable collection of open computational neuroscience resources",
@@ -836,7 +836,7 @@
       "open_issues": 5,
       "owner": "asoplata",
       "repo": "open-computational-neuroscience-resources",
-      "stars": 710,
+      "stars": 711,
       "topics": [
         "awesome",
         "awesome-list",
