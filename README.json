@@ -226,7 +226,7 @@
                         "open_issues": 64,
                         "owner": "MouseLand",
                         "repo": "suite2p",
-                        "stars": 471,
+                        "stars": 472,
                         "topics": [
                           "data-analysis",
                           "imaging",
@@ -281,7 +281,7 @@
                     "open_issues": 43,
                     "owner": "DeepLabCut",
                     "repo": "DeepLabCut",
-                    "stars": 5759,
+                    "stars": 5760,
                     "topics": [
                       "animal-pose-estimation",
                       "behavior-analysis",
@@ -396,8 +396,8 @@
                 "id": 120948040,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-02T23:45:29Z",
-                "open_issues": 17,
+                "last_commit": "2026-09-06T14:03:33Z",
+                "open_issues": 15,
                 "owner": "BindsNET",
                 "repo": "bindsnet",
                 "stars": 1696,
@@ -824,7 +824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T16:54:48.446Z",
+    "last_updated": "2026-09-06T17:17:14.795Z",
     "original_repository_info": {
       "archived": false,
       "description": "A publicly-editable collection of open computational neuroscience resources",
