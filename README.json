@@ -98,8 +98,8 @@
                     "id": 420284646,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-04T12:34:50Z",
-                    "open_issues": 57,
+                    "last_commit": "2026-09-10T15:30:02Z",
+                    "open_issues": 60,
                     "owner": "pynapple-org",
                     "repo": "pynapple",
                     "stars": 380,
@@ -159,7 +159,7 @@
                         "open_issues": 20,
                         "owner": "MouseLand",
                         "repo": "Kilosort",
-                        "stars": 625,
+                        "stars": 627,
                         "topics": [
                           "electrophysiology",
                           "neuroscience",
@@ -278,10 +278,10 @@
                     "language": "Python",
                     "license": "LGPL-3.0",
                     "last_commit": "2026-09-09T17:29:45Z",
-                    "open_issues": 45,
+                    "open_issues": 46,
                     "owner": "DeepLabCut",
                     "repo": "DeepLabCut",
-                    "stars": 5761,
+                    "stars": 5763,
                     "topics": [
                       "animal-pose-estimation",
                       "behavior-analysis",
@@ -386,39 +386,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "BindsNET - Simulation of spiking neural networks (SNNs) using PyTorch",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Simulation of spiking neural networks (SNNs) using PyTorch.",
-                "homepage": null,
-                "id": 120948040,
-                "language": "Python",
-                "license": "AGPL-3.0",
-                "last_commit": "2026-09-07T14:12:58Z",
-                "open_issues": 8,
-                "owner": "BindsNET",
-                "repo": "bindsnet",
-                "stars": 1698,
-                "topics": [
-                  "dynamic",
-                  "gpu-computing",
-                  "machine-learning",
-                  "neurons",
-                  "pytorch",
-                  "reinforcement-learning",
-                  "simulation",
-                  "snn",
-                  "spiking-neural-networks",
-                  "stdp",
-                  "synapse"
-                ]
-              },
-              "first_seen": "2026-08-28T23:38:33.723Z"
-            },
-            {
-              "node_type": "item",
               "title": "Jaxley - Differentiable neuron simulations on CPU, GPU, or TPU. Next-generation biophysical neuron simulator built on the JAX library.",
               "description": null,
               "children": [],
@@ -456,8 +423,8 @@
                 "id": 20801613,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-08T14:58:42Z",
-                "open_issues": 103,
+                "last_commit": "2026-09-10T15:28:46Z",
+                "open_issues": 104,
                 "owner": "SpiNNakerManchester",
                 "repo": "sPyNNaker",
                 "stars": 120,
@@ -545,6 +512,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T23:38:33.723Z"
+            },
+            {
+              "node_type": "item",
+              "title": "BindsNET - Simulation of spiking neural networks (SNNs) using PyTorch",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Adding MSTDPET_MA",
+                "homepage": null,
+                "id": 1363288702,
+                "language": null,
+                "license": "AGPL-3.0",
+                "last_commit": "2026-09-09T22:48:59Z",
+                "open_issues": 0,
+                "owner": "Hananel-Hazan",
+                "repo": "bindsnet",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-09-10T17:48:07.097Z"
             },
             {
               "node_type": "group",
@@ -824,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T17:56:12.049Z",
+    "last_updated": "2026-09-10T17:48:07.097Z",
     "original_repository_info": {
       "archived": false,
       "description": "A publicly-editable collection of open computational neuroscience resources",
