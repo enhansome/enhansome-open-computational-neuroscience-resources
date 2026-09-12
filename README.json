@@ -98,8 +98,8 @@
                     "id": 420284646,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-11T16:18:12Z",
-                    "open_issues": 58,
+                    "last_commit": "2026-09-12T02:43:13Z",
+                    "open_issues": 59,
                     "owner": "pynapple-org",
                     "repo": "pynapple",
                     "stars": 380,
@@ -198,7 +198,7 @@
                         "open_issues": 100,
                         "owner": "flatironinstitute",
                         "repo": "CaImAn",
-                        "stars": 736,
+                        "stars": 737,
                         "topics": [
                           "2-photon",
                           "calcium-imaging",
@@ -281,7 +281,7 @@
                     "open_issues": 49,
                     "owner": "DeepLabCut",
                     "repo": "DeepLabCut",
-                    "stars": 5765,
+                    "stars": 5766,
                     "topics": [
                       "animal-pose-estimation",
                       "behavior-analysis",
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T17:50:36.813Z",
+    "last_updated": "2026-09-12T17:23:04.019Z",
     "original_repository_info": {
       "archived": false,
       "description": "A publicly-editable collection of open computational neuroscience resources",
