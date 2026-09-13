@@ -99,7 +99,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-12T02:43:13Z",
-                    "open_issues": 59,
+                    "open_issues": 61,
                     "owner": "pynapple-org",
                     "repo": "pynapple",
                     "stars": 380,
@@ -222,7 +222,7 @@
                         "id": 141175642,
                         "language": "Python",
                         "license": "GPL-3.0",
-                        "last_commit": "2026-09-07T23:25:34Z",
+                        "last_commit": "2026-09-12T17:29:12Z",
                         "open_issues": 65,
                         "owner": "MouseLand",
                         "repo": "suite2p",
@@ -278,7 +278,7 @@
                     "language": "Python",
                     "license": "LGPL-3.0",
                     "last_commit": "2026-09-11T14:19:48Z",
-                    "open_issues": 49,
+                    "open_issues": 51,
                     "owner": "DeepLabCut",
                     "repo": "DeepLabCut",
                     "stars": 5766,
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T17:23:04.019Z",
+    "last_updated": "2026-09-13T17:35:09.836Z",
     "original_repository_info": {
       "archived": false,
       "description": "A publicly-editable collection of open computational neuroscience resources",
