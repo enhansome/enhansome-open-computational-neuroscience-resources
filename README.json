@@ -98,8 +98,8 @@
                     "id": 420284646,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-15T15:38:57Z",
-                    "open_issues": 59,
+                    "last_commit": "2026-09-16T15:56:56Z",
+                    "open_issues": 58,
                     "owner": "pynapple-org",
                     "repo": "pynapple",
                     "stars": 380,
@@ -278,7 +278,7 @@
                     "language": "Python",
                     "license": "LGPL-3.0",
                     "last_commit": "2026-09-14T15:21:06Z",
-                    "open_issues": 49,
+                    "open_issues": 50,
                     "owner": "DeepLabCut",
                     "repo": "DeepLabCut",
                     "stars": 5768,
@@ -743,7 +743,7 @@
                 "open_issues": 39,
                 "owner": "AllenInstitute",
                 "repo": "sonata",
-                "stars": 66,
+                "stars": 67,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:38:33.723Z"
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T18:24:37.031Z",
+    "last_updated": "2026-09-16T18:21:04.726Z",
     "original_repository_info": {
       "archived": false,
       "description": "A publicly-editable collection of open computational neuroscience resources",

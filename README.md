@@ -84,7 +84,7 @@ Contributions are VERY welcome!
 
 #### Analysis Software For Electrophysiology
 
-* [Pynapple - "PYthon Neural Analysis Package" for neurophysiological data analysis](https://github.com/pynapple-org/pynapple) ⭐ 380 | 🐛 59 | 🌐 Python | 📅 2026-09-15
+* [Pynapple - "PYthon Neural Analysis Package" for neurophysiological data analysis](https://github.com/pynapple-org/pynapple) ⭐ 380 | 🐛 58 | 🌐 Python | 📅 2026-09-16
 
 * Note: "electrophysiology of neurons" (also called "ephys") is equivalent to the common term "neurophysiology". In neuroscience, unless it is mentioned explicitly, you can safely assume that "electrophysiology" is referring to that of *neuron cells* in particular, as opposed to electrophysiology of *non-neuron brain cells* like astrocytes, glia, etc.
 
@@ -133,7 +133,7 @@ Contributions are VERY welcome!
 
 #### Other Analysis Software
 
-* [DeepLabCut - Markerless pose estimation for quantifying behavior and movement kinematics in neuroscience experiments, using transfer learning from ImageNet-pretrained networks](https://github.com/DeepLabCut/DeepLabCut) ⭐ 5,768 | 🐛 49 | 🌐 Python | 📅 2026-09-14
+* [DeepLabCut - Markerless pose estimation for quantifying behavior and movement kinematics in neuroscience experiments, using transfer learning from ImageNet-pretrained networks](https://github.com/DeepLabCut/DeepLabCut) ⭐ 5,768 | 🐛 50 | 🌐 Python | 📅 2026-09-14
 * [NeuronUnit - Data-driven model validation for neuroscience](https://github.com/scidash/neuronunit) ⭐ 42 | 🐛 62 | 🌐 Jupyter Notebook | 📅 2021-07-18
 * [SpectraVis - Network visualization tool for functional brain connectivity in-browser](https://github.com/NeurophysVis/SpectraVis) ⭐ 37 | 🐛 21 | 🌐 JavaScript | 📅 2022-09-07
 * [bctnet - Brain Connectivity Toolbox for complex-network analysis](https://github.com/brainlife/BCT) ⭐ 31 | 🐛 5 | 🌐 MATLAB | 📅 2020-12-16
@@ -269,7 +269,7 @@ Contributions are VERY welcome!
 
 * [SONATA format for large-scale, efficient model specification and output data
   schema of neural simulations, co-developed by Allen Institute for Brain
-  Sciences and Blue Brain Project](https://github.com/AllenInstitute/sonata) ⭐ 66 | 🐛 39 | 🌐 Python | 📅 2025-11-24
+  Sciences and Blue Brain Project](https://github.com/AllenInstitute/sonata) ⭐ 67 | 🐛 39 | 🌐 Python | 📅 2025-11-24
 * [NSDF - Neuroscience Simulation Data Format, built on top of HDF5](https://github.com/nsdf/nsdf) ⭐ 7 | 🐛 3 | 🌐 Python | 📅 2024-11-04
 * [Neo - Python library for enabling interoperability of electrophysiological
   data, including conversion from proprietary file
@@ -377,4 +377,4 @@ Contributions are VERY welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
