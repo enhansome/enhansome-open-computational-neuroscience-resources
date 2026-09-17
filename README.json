@@ -98,8 +98,8 @@
                     "id": 420284646,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-16T15:56:56Z",
-                    "open_issues": 58,
+                    "last_commit": "2026-09-17T14:54:50Z",
+                    "open_issues": 57,
                     "owner": "pynapple-org",
                     "repo": "pynapple",
                     "stars": 380,
@@ -277,11 +277,11 @@
                     "id": 126897385,
                     "language": "Python",
                     "license": "LGPL-3.0",
-                    "last_commit": "2026-09-14T15:21:06Z",
-                    "open_issues": 50,
+                    "last_commit": "2026-09-17T14:36:58Z",
+                    "open_issues": 43,
                     "owner": "DeepLabCut",
                     "repo": "DeepLabCut",
-                    "stars": 5768,
+                    "stars": 5770,
                     "topics": [
                       "animal-pose-estimation",
                       "behavior-analysis",
@@ -423,8 +423,8 @@
                 "id": 20801613,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-14T08:12:55Z",
-                "open_issues": 103,
+                "last_commit": "2026-09-17T10:45:03Z",
+                "open_issues": 101,
                 "owner": "SpiNNakerManchester",
                 "repo": "sPyNNaker",
                 "stars": 120,
@@ -555,7 +555,7 @@
                     "open_issues": 80,
                     "owner": "BlueBrain",
                     "repo": "CoreNeuron",
-                    "stars": 146,
+                    "stars": 147,
                     "topics": [
                       "compartmental",
                       "hpc",
@@ -588,7 +588,7 @@
                     "open_issues": 20,
                     "owner": "BlueBrain",
                     "repo": "BluePyOpt",
-                    "stars": 217,
+                    "stars": 218,
                     "topics": [
                       "biological-simulations",
                       "computational-neuroscience",
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T18:21:04.726Z",
+    "last_updated": "2026-09-17T18:28:12.265Z",
     "original_repository_info": {
       "archived": false,
       "description": "A publicly-editable collection of open computational neuroscience resources",
@@ -824,7 +824,7 @@
       "open_issues": 5,
       "owner": "asoplata",
       "repo": "open-computational-neuroscience-resources",
-      "stars": 712,
+      "stars": 713,
       "topics": [
         "awesome",
         "awesome-list",
