@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "asoplata",
             "repo": "open-science-resources",
-            "stars": 135,
+            "stars": 136,
             "topics": [
               "awesome",
               "awesome-list",
@@ -198,7 +198,7 @@
                         "open_issues": 100,
                         "owner": "flatironinstitute",
                         "repo": "CaImAn",
-                        "stars": 737,
+                        "stars": 738,
                         "topics": [
                           "2-photon",
                           "calcium-imaging",
@@ -223,7 +223,7 @@
                         "language": "Python",
                         "license": "GPL-3.0",
                         "last_commit": "2026-09-12T17:29:12Z",
-                        "open_issues": 65,
+                        "open_issues": 66,
                         "owner": "MouseLand",
                         "repo": "suite2p",
                         "stars": 473,
@@ -277,11 +277,11 @@
                     "id": 126897385,
                     "language": "Python",
                     "license": "LGPL-3.0",
-                    "last_commit": "2026-09-17T14:36:58Z",
-                    "open_issues": 43,
+                    "last_commit": "2026-09-18T01:31:36Z",
+                    "open_issues": 44,
                     "owner": "DeepLabCut",
                     "repo": "DeepLabCut",
-                    "stars": 5770,
+                    "stars": 5773,
                     "topics": [
                       "animal-pose-estimation",
                       "behavior-analysis",
@@ -710,7 +710,7 @@
             "open_issues": 2,
             "owner": "asoplata",
             "repo": "open-science-resources",
-            "stars": 135,
+            "stars": 136,
             "topics": [
               "awesome",
               "awesome-list",
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T18:28:12.265Z",
+    "last_updated": "2026-09-18T17:48:13.889Z",
     "original_repository_info": {
       "archived": false,
       "description": "A publicly-editable collection of open computational neuroscience resources",
