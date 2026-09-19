@@ -277,11 +277,11 @@
                     "id": 126897385,
                     "language": "Python",
                     "license": "LGPL-3.0",
-                    "last_commit": "2026-09-18T01:31:36Z",
-                    "open_issues": 44,
+                    "last_commit": "2026-09-18T23:53:50Z",
+                    "open_issues": 45,
                     "owner": "DeepLabCut",
                     "repo": "DeepLabCut",
-                    "stars": 5773,
+                    "stars": 5774,
                     "topics": [
                       "animal-pose-estimation",
                       "behavior-analysis",
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T17:48:13.889Z",
+    "last_updated": "2026-09-19T17:22:10.408Z",
     "original_repository_info": {
       "archived": false,
       "description": "A publicly-editable collection of open computational neuroscience resources",

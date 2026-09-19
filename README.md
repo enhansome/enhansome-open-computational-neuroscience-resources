@@ -133,7 +133,7 @@ Contributions are VERY welcome!
 
 #### Other Analysis Software
 
-* [DeepLabCut - Markerless pose estimation for quantifying behavior and movement kinematics in neuroscience experiments, using transfer learning from ImageNet-pretrained networks](https://github.com/DeepLabCut/DeepLabCut) ⭐ 5,773 | 🐛 44 | 🌐 Python | 📅 2026-09-18
+* [DeepLabCut - Markerless pose estimation for quantifying behavior and movement kinematics in neuroscience experiments, using transfer learning from ImageNet-pretrained networks](https://github.com/DeepLabCut/DeepLabCut) ⭐ 5,774 | 🐛 45 | 🌐 Python | 📅 2026-09-18
 * [NeuronUnit - Data-driven model validation for neuroscience](https://github.com/scidash/neuronunit) ⭐ 42 | 🐛 62 | 🌐 Jupyter Notebook | 📅 2021-07-18
 * [SpectraVis - Network visualization tool for functional brain connectivity in-browser](https://github.com/NeurophysVis/SpectraVis) ⭐ 37 | 🐛 21 | 🌐 JavaScript | 📅 2022-09-07
 * [bctnet - Brain Connectivity Toolbox for complex-network analysis](https://github.com/brainlife/BCT) ⭐ 31 | 🐛 5 | 🌐 MATLAB | 📅 2020-12-16
@@ -377,4 +377,4 @@ Contributions are VERY welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
