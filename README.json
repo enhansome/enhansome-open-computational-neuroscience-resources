@@ -159,7 +159,7 @@
                         "open_issues": 20,
                         "owner": "MouseLand",
                         "repo": "Kilosort",
-                        "stars": 628,
+                        "stars": 627,
                         "topics": [
                           "electrophysiology",
                           "neuroscience",
@@ -223,7 +223,7 @@
                         "language": "Python",
                         "license": "GPL-3.0",
                         "last_commit": "2026-09-12T17:29:12Z",
-                        "open_issues": 66,
+                        "open_issues": 67,
                         "owner": "MouseLand",
                         "repo": "suite2p",
                         "stars": 473,
@@ -281,7 +281,7 @@
                     "open_issues": 45,
                     "owner": "DeepLabCut",
                     "repo": "DeepLabCut",
-                    "stars": 5774,
+                    "stars": 5775,
                     "topics": [
                       "animal-pose-estimation",
                       "behavior-analysis",
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T17:22:10.408Z",
+    "last_updated": "2026-09-20T17:36:18.835Z",
     "original_repository_info": {
       "archived": false,
       "description": "A publicly-editable collection of open computational neuroscience resources",
@@ -824,7 +824,7 @@
       "open_issues": 5,
       "owner": "asoplata",
       "repo": "open-computational-neuroscience-resources",
-      "stars": 713,
+      "stars": 714,
       "topics": [
         "awesome",
         "awesome-list",
