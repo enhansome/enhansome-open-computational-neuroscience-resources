@@ -98,7 +98,7 @@
                     "id": 420284646,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-21T18:34:28Z",
+                    "last_commit": "2026-09-22T15:37:39Z",
                     "open_issues": 57,
                     "owner": "pynapple-org",
                     "repo": "pynapple",
@@ -281,7 +281,7 @@
                     "open_issues": 46,
                     "owner": "DeepLabCut",
                     "repo": "DeepLabCut",
-                    "stars": 5775,
+                    "stars": 5778,
                     "topics": [
                       "animal-pose-estimation",
                       "behavior-analysis",
@@ -423,7 +423,7 @@
                 "id": 20801613,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T15:50:18Z",
+                "last_commit": "2026-09-22T10:48:41Z",
                 "open_issues": 102,
                 "owner": "SpiNNakerManchester",
                 "repo": "sPyNNaker",
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T19:40:21.925Z",
+    "last_updated": "2026-09-22T18:13:55.357Z",
     "original_repository_info": {
       "archived": false,
       "description": "A publicly-editable collection of open computational neuroscience resources",
