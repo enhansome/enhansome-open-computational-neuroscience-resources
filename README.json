@@ -159,7 +159,7 @@
                         "open_issues": 20,
                         "owner": "MouseLand",
                         "repo": "Kilosort",
-                        "stars": 628,
+                        "stars": 629,
                         "topics": [
                           "electrophysiology",
                           "neuroscience",
@@ -281,7 +281,7 @@
                     "open_issues": 48,
                     "owner": "DeepLabCut",
                     "repo": "DeepLabCut",
-                    "stars": 5777,
+                    "stars": 5778,
                     "topics": [
                       "animal-pose-estimation",
                       "behavior-analysis",
@@ -400,7 +400,7 @@
                 "open_issues": 86,
                 "owner": "jaxleyverse",
                 "repo": "jaxley",
-                "stars": 212,
+                "stars": 213,
                 "topics": [
                   "biophysics",
                   "differentiable-simulations",
@@ -423,8 +423,8 @@
                 "id": 20801613,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T16:19:54Z",
-                "open_issues": 102,
+                "last_commit": "2026-09-25T15:02:45Z",
+                "open_issues": 103,
                 "owner": "SpiNNakerManchester",
                 "repo": "sPyNNaker",
                 "stars": 120,
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T18:36:23.543Z",
+    "last_updated": "2026-09-25T18:49:36.103Z",
     "original_repository_info": {
       "archived": false,
       "description": "A publicly-editable collection of open computational neuroscience resources",
