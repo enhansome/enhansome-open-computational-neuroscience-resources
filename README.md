@@ -102,7 +102,7 @@ Contributions are VERY welcome!
   \- SpykeViewer can consume electrophysiology data loaded by [Neo](http://neuralensemble.org/neo/)
 
 * Spike Sorting:
-  * [Kilosort - GPU-accelerated spike sorting for large-scale extracellular recordings, widely used with Neuropixels probes](https://github.com/MouseLand/Kilosort) ⭐ 629 | 🐛 20 | 🌐 Python | 📅 2026-04-27
+  * [Kilosort - GPU-accelerated spike sorting for large-scale extracellular recordings, widely used with Neuropixels probes](https://github.com/MouseLand/Kilosort) ⭐ 629 | 🐛 18 | 🌐 Python | 📅 2026-09-25
   * [Comparison of Spike Sorting Software - lists MANY tools and their properties. Last updated in 2017 so probably out of date.](https://simonster.github.io/SpikeSortingSoftware/)
   * [SpikeInterface - Spike sorting analysis specifically made for compatibility
     between different sorting algorithms, part of the Open Ephys project](https://open-ephys.org/spikeinterface)
@@ -377,4 +377,4 @@ Contributions are VERY welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
