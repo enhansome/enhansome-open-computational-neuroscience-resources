@@ -159,7 +159,7 @@
                         "open_issues": 18,
                         "owner": "MouseLand",
                         "repo": "Kilosort",
-                        "stars": 629,
+                        "stars": 630,
                         "topics": [
                           "electrophysiology",
                           "neuroscience",
@@ -226,7 +226,7 @@
                         "open_issues": 67,
                         "owner": "MouseLand",
                         "repo": "suite2p",
-                        "stars": 473,
+                        "stars": 474,
                         "topics": [
                           "data-analysis",
                           "imaging",
@@ -277,11 +277,11 @@
                     "id": 126897385,
                     "language": "Python",
                     "license": "LGPL-3.0",
-                    "last_commit": "2026-09-24T14:35:46Z",
-                    "open_issues": 48,
+                    "last_commit": "2026-09-28T16:15:34Z",
+                    "open_issues": 52,
                     "owner": "DeepLabCut",
                     "repo": "DeepLabCut",
-                    "stars": 5779,
+                    "stars": 5780,
                     "topics": [
                       "animal-pose-estimation",
                       "behavior-analysis",
@@ -423,8 +423,8 @@
                 "id": 20801613,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-25T15:02:45Z",
-                "open_issues": 103,
+                "last_commit": "2026-09-28T14:54:34Z",
+                "open_issues": 102,
                 "owner": "SpiNNakerManchester",
                 "repo": "sPyNNaker",
                 "stars": 121,
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T18:36:45.016Z",
+    "last_updated": "2026-09-28T20:41:34.439Z",
     "original_repository_info": {
       "archived": false,
       "description": "A publicly-editable collection of open computational neuroscience resources",
@@ -824,7 +824,7 @@
       "open_issues": 5,
       "owner": "asoplata",
       "repo": "open-computational-neuroscience-resources",
-      "stars": 712,
+      "stars": 715,
       "topics": [
         "awesome",
         "awesome-list",
