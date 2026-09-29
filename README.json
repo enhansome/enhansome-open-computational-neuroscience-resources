@@ -99,7 +99,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-26T18:45:08Z",
-                    "open_issues": 55,
+                    "open_issues": 56,
                     "owner": "pynapple-org",
                     "repo": "pynapple",
                     "stars": 380,
@@ -159,7 +159,7 @@
                         "open_issues": 18,
                         "owner": "MouseLand",
                         "repo": "Kilosort",
-                        "stars": 630,
+                        "stars": 631,
                         "topics": [
                           "electrophysiology",
                           "neuroscience",
@@ -226,7 +226,7 @@
                         "open_issues": 67,
                         "owner": "MouseLand",
                         "repo": "suite2p",
-                        "stars": 474,
+                        "stars": 475,
                         "topics": [
                           "data-analysis",
                           "imaging",
@@ -277,11 +277,11 @@
                     "id": 126897385,
                     "language": "Python",
                     "license": "LGPL-3.0",
-                    "last_commit": "2026-09-28T16:15:34Z",
-                    "open_issues": 52,
+                    "last_commit": "2026-09-29T13:15:42Z",
+                    "open_issues": 51,
                     "owner": "DeepLabCut",
                     "repo": "DeepLabCut",
-                    "stars": 5780,
+                    "stars": 5781,
                     "topics": [
                       "animal-pose-estimation",
                       "behavior-analysis",
@@ -400,7 +400,7 @@
                 "open_issues": 86,
                 "owner": "jaxleyverse",
                 "repo": "jaxley",
-                "stars": 213,
+                "stars": 214,
                 "topics": [
                   "biophysics",
                   "differentiable-simulations",
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T20:41:34.439Z",
+    "last_updated": "2026-09-29T19:34:38.129Z",
     "original_repository_info": {
       "archived": false,
       "description": "A publicly-editable collection of open computational neuroscience resources",
