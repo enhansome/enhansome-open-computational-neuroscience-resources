@@ -84,7 +84,7 @@ Contributions are VERY welcome!
 
 #### Analysis Software For Electrophysiology
 
-* [Pynapple - "PYthon Neural Analysis Package" for neurophysiological data analysis](https://github.com/pynapple-org/pynapple) ⭐ 381 | 🐛 55 | 🌐 Python | 📅 2026-10-01
+* [Pynapple - "PYthon Neural Analysis Package" for neurophysiological data analysis](https://github.com/pynapple-org/pynapple) ⭐ 381 | 🐛 57 | 🌐 Python | 📅 2026-10-02
 
 * Note: "electrophysiology of neurons" (also called "ephys") is equivalent to the common term "neurophysiology". In neuroscience, unless it is mentioned explicitly, you can safely assume that "electrophysiology" is referring to that of *neuron cells* in particular, as opposed to electrophysiology of *non-neuron brain cells* like astrocytes, glia, etc.
 
@@ -151,7 +151,7 @@ Contributions are VERY welcome!
 
 ### Simulation Software
 
-* [Jaxley - Differentiable neuron simulations on CPU, GPU, or TPU. Next-generation biophysical neuron simulator built on the JAX library.](https://github.com/jaxleyverse/jaxley) ⭐ 214 | 🐛 86 | 🌐 Python | 📅 2026-09-03
+* [Jaxley - Differentiable neuron simulations on CPU, GPU, or TPU. Next-generation biophysical neuron simulator built on the JAX library.](https://github.com/jaxleyverse/jaxley) ⭐ 214 | 🐛 87 | 🌐 Python | 📅 2026-09-03
 * [sPyNNaker - A software package for running PyNN simulations on the SpiNNaker million core neuromorphic machine](https://github.com/SpiNNakerManchester/sPyNNaker) ⭐ 121 | 🐛 101 | 🌐 Python | 📅 2026-09-30
 * [PyRhO - Virtual laboratory for optogenetic simulation. Integrates with NEURON and Brian2 models.](https://github.com/ProjectPyRhO/PyRhO) ⭐ 44 | 🐛 2 | 🌐 Python | 📅 2023-07-24
   * [Prometheus - Related docker image for use with PyRhO via "Modelling as a Service"](https://github.com/ProjectPyRhO/Prometheus) ⭐ 0 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-06-15
@@ -377,4 +377,4 @@ Contributions are VERY welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
