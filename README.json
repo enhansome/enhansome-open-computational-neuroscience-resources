@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Open Hardware - see this Open Science Resources page",
-          "description": null,
+          "description": "asoplata/open-science-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -37,7 +37,7 @@
         {
           "node_type": "item",
           "title": "SORTED - a list of interesting science ideas and links (cognitive/neuro & data science)",
-          "description": null,
+          "description": "PTDZ/SORTED",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -89,7 +89,7 @@
                 {
                   "node_type": "item",
                   "title": "Pynapple - \"PYthon Neural Analysis Package\" for neurophysiological data analysis",
-                  "description": null,
+                  "description": "pynapple-org/pynapple",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -98,8 +98,8 @@
                     "id": 420284646,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T17:03:24Z",
-                    "open_issues": 57,
+                    "last_commit": "2026-10-03T02:43:17Z",
+                    "open_issues": 56,
                     "owner": "pynapple-org",
                     "repo": "pynapple",
                     "stars": 381,
@@ -146,7 +146,7 @@
                     {
                       "node_type": "item",
                       "title": "Kilosort - GPU-accelerated spike sorting for large-scale extracellular recordings, widely used with Neuropixels probes",
-                      "description": null,
+                      "description": "MouseLand/Kilosort",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -185,7 +185,7 @@
                     {
                       "node_type": "item",
                       "title": "CaImAn - Calcium Imaging Analysis",
-                      "description": null,
+                      "description": "flatironinstitute/CaImAn",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -213,7 +213,7 @@
                     {
                       "node_type": "item",
                       "title": "suite2p - Fast, scalable calcium imaging pipeline for cell detection (ROI extraction), neuropil correction, signal extraction, and spike deconvolution from two-photon microscopy data",
-                      "description": null,
+                      "description": "MouseLand/suite2p",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -268,7 +268,7 @@
                 {
                   "node_type": "item",
                   "title": "DeepLabCut - Markerless pose estimation for quantifying behavior and movement kinematics in neuroscience experiments, using transfer learning from ImageNet-pretrained networks",
-                  "description": null,
+                  "description": "DeepLabCut/DeepLabCut",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -300,7 +300,7 @@
                 {
                   "node_type": "item",
                   "title": "NeuronUnit - Data-driven model validation for neuroscience",
-                  "description": null,
+                  "description": "scidash/neuronunit",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -328,7 +328,7 @@
                 {
                   "node_type": "item",
                   "title": "SpectraVis - Network visualization tool for functional brain connectivity in-browser",
-                  "description": null,
+                  "description": "NeurophysVis/SpectraVis",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -354,7 +354,7 @@
                 {
                   "node_type": "item",
                   "title": "bctnet - Brain Connectivity Toolbox for complex-network analysis",
-                  "description": null,
+                  "description": "brainlife/BCT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -387,7 +387,7 @@
             {
               "node_type": "item",
               "title": "Jaxley - Differentiable neuron simulations on CPU, GPU, or TPU. Next-generation biophysical neuron simulator built on the JAX library.",
-              "description": null,
+              "description": "jaxleyverse/jaxley",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -414,7 +414,7 @@
             {
               "node_type": "item",
               "title": "sPyNNaker - A software package for running PyNN simulations on the SpiNNaker million core neuromorphic machine",
-              "description": null,
+              "description": "SpiNNakerManchester/sPyNNaker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -441,12 +441,12 @@
             {
               "node_type": "item",
               "title": "PyRhO - Virtual laboratory for optogenetic simulation. Integrates with NEURON and Brian2 models.",
-              "description": null,
+              "description": "ProjectPyRhO/PyRhO",
               "children": [
                 {
                   "node_type": "item",
                   "title": "Prometheus - Related docker image for use with PyRhO via \"Modelling as a Service\"",
-                  "description": null,
+                  "description": "ProjectPyRhO/Prometheus",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -495,7 +495,7 @@
             {
               "node_type": "item",
               "title": "PyPNS - Python Peripheral Nerve Simulator",
-              "description": null,
+              "description": "chlubba/PyPNS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -516,7 +516,7 @@
             {
               "node_type": "item",
               "title": "BindsNET - Simulation of spiking neural networks (SNNs) using PyTorch",
-              "description": null,
+              "description": "Hananel-Hazan/bindsnet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -542,7 +542,7 @@
                 {
                   "node_type": "item",
                   "title": "CoreNeuron - Optimized, simplified NEURON implementation used by the Blue Brain Project. Previously, this was a separate extension, but has now been integrated into standard NEURON",
-                  "description": null,
+                  "description": "BlueBrain/CoreNeuron",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -575,7 +575,7 @@
                 {
                   "node_type": "item",
                   "title": "BluePyOpt - Blue Brain Python Optimisation Library, for optimizing parameters in neural models",
-                  "description": null,
+                  "description": "BlueBrain/BluePyOpt",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -609,7 +609,7 @@
                 {
                   "node_type": "item",
                   "title": "NSDF - Neuroscience Simulation Data Format, built on HDF5",
-                  "description": null,
+                  "description": "nsdf/nsdf",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -630,7 +630,7 @@
                 {
                   "node_type": "item",
                   "title": "GIMBL-Vis - Multi-dimensional visualization toolbox; integrates with DynaSim",
-                  "description": null,
+                  "description": "erik-roberts/GIMBL-Vis",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -660,7 +660,7 @@
                 {
                   "node_type": "item",
                   "title": "BRAHMS - A modular execution framework for executing integrated systems built from component software processes",
-                  "description": null,
+                  "description": "BRAHMS-SystemML/brahms",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -730,7 +730,7 @@
             {
               "node_type": "item",
               "title": "SONATA format for large-scale, efficient model specification and output data schema of neural simulations, co-developed by Allen Institute for Brain Sciences and Blue Brain Project",
-              "description": null,
+              "description": "AllenInstitute/sonata",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -751,7 +751,7 @@
             {
               "node_type": "item",
               "title": "NSDF - Neuroscience Simulation Data Format, built on top of HDF5",
-              "description": null,
+              "description": "nsdf/nsdf",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -777,7 +777,7 @@
                 {
                   "node_type": "item",
                   "title": "ndx-simulation-output Large-scale simulation data scheme extenstion to NWB:N",
-                  "description": null,
+                  "description": "catalystneuro/ndx-simulation-output",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:27:31.855Z",
+    "last_updated": "2026-10-03T05:02:42.945Z",
     "original_repository_info": {
       "archived": false,
       "description": "A publicly-editable collection of open computational neuroscience resources",
