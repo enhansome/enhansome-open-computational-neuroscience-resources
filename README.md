@@ -84,7 +84,7 @@ Contributions are VERY welcome!
 
 #### Analysis Software For Electrophysiology
 
-* [Pynapple - "PYthon Neural Analysis Package" for neurophysiological data analysis](https://github.com/pynapple-org/pynapple) ⭐ 381 | 🐛 56 | 🌐 Python | 📅 2026-10-05
+* [Pynapple - "PYthon Neural Analysis Package" for neurophysiological data analysis](https://github.com/pynapple-org/pynapple) ⭐ 381 | 🐛 56 | 🌐 Python | 📅 2026-10-06
 
 * Note: "electrophysiology of neurons" (also called "ephys") is equivalent to the common term "neurophysiology". In neuroscience, unless it is mentioned explicitly, you can safely assume that "electrophysiology" is referring to that of *neuron cells* in particular, as opposed to electrophysiology of *non-neuron brain cells* like astrocytes, glia, etc.
 
@@ -133,7 +133,7 @@ Contributions are VERY welcome!
 
 #### Other Analysis Software
 
-* [DeepLabCut - Markerless pose estimation for quantifying behavior and movement kinematics in neuroscience experiments, using transfer learning from ImageNet-pretrained networks](https://github.com/DeepLabCut/DeepLabCut) ⭐ 5,781 | 🐛 59 | 🌐 Python | 📅 2026-10-01
+* [DeepLabCut - Markerless pose estimation for quantifying behavior and movement kinematics in neuroscience experiments, using transfer learning from ImageNet-pretrained networks](https://github.com/DeepLabCut/DeepLabCut) ⭐ 5,781 | 🐛 60 | 🌐 Python | 📅 2026-10-06
 * [NeuronUnit - Data-driven model validation for neuroscience](https://github.com/scidash/neuronunit) ⭐ 42 | 🐛 62 | 🌐 Jupyter Notebook | 📅 2021-07-18
 * [SpectraVis - Network visualization tool for functional brain connectivity in-browser](https://github.com/NeurophysVis/SpectraVis) ⭐ 37 | 🐛 21 | 🌐 JavaScript | 📅 2022-09-07
 * [bctnet - Brain Connectivity Toolbox for complex-network analysis](https://github.com/brainlife/BCT) ⭐ 31 | 🐛 5 | 🌐 MATLAB | 📅 2020-12-16
@@ -151,7 +151,7 @@ Contributions are VERY welcome!
 
 ### Simulation Software
 
-* [Jaxley - Differentiable neuron simulations on CPU, GPU, or TPU. Next-generation biophysical neuron simulator built on the JAX library.](https://github.com/jaxleyverse/jaxley) ⭐ 214 | 🐛 86 | 🌐 Python | 📅 2026-09-03
+* [Jaxley - Differentiable neuron simulations on CPU, GPU, or TPU. Next-generation biophysical neuron simulator built on the JAX library.](https://github.com/jaxleyverse/jaxley) ⭐ 215 | 🐛 86 | 🌐 Python | 📅 2026-09-03
 * [sPyNNaker - A software package for running PyNN simulations on the SpiNNaker million core neuromorphic machine](https://github.com/SpiNNakerManchester/sPyNNaker) ⭐ 121 | 🐛 101 | 🌐 Python | 📅 2026-10-06
 * [PyRhO - Virtual laboratory for optogenetic simulation. Integrates with NEURON and Brian2 models.](https://github.com/ProjectPyRhO/PyRhO) ⭐ 44 | 🐛 2 | 🌐 Python | 📅 2023-07-24
   * [Prometheus - Related docker image for use with PyRhO via "Modelling as a Service"](https://github.com/ProjectPyRhO/Prometheus) ⭐ 0 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-06-15

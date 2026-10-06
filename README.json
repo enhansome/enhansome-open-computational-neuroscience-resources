@@ -98,7 +98,7 @@
                     "id": 420284646,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-05T22:05:51Z",
+                    "last_commit": "2026-10-06T19:03:55Z",
                     "open_issues": 56,
                     "owner": "pynapple-org",
                     "repo": "pynapple",
@@ -277,8 +277,8 @@
                     "id": 126897385,
                     "language": "Python",
                     "license": "LGPL-3.0",
-                    "last_commit": "2026-10-01T02:05:52Z",
-                    "open_issues": 59,
+                    "last_commit": "2026-10-06T14:34:38Z",
+                    "open_issues": 60,
                     "owner": "DeepLabCut",
                     "repo": "DeepLabCut",
                     "stars": 5781,
@@ -400,7 +400,7 @@
                 "open_issues": 86,
                 "owner": "jaxleyverse",
                 "repo": "jaxley",
-                "stars": 214,
+                "stars": 215,
                 "topics": [
                   "biophysics",
                   "differentiable-simulations",
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:13:01.634Z",
+    "last_updated": "2026-10-06T19:44:56.830Z",
     "original_repository_info": {
       "archived": false,
       "description": "A publicly-editable collection of open computational neuroscience resources",
