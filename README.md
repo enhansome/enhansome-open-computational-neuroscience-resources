@@ -84,7 +84,7 @@ Contributions are VERY welcome!
 
 #### Analysis Software For Electrophysiology
 
-* [Pynapple - "PYthon Neural Analysis Package" for neurophysiological data analysis](https://github.com/pynapple-org/pynapple) ⭐ 381 | 🐛 56 | 🌐 Python | 📅 2026-10-07
+* [Pynapple - "PYthon Neural Analysis Package" for neurophysiological data analysis](https://github.com/pynapple-org/pynapple) ⭐ 381 | 🐛 56 | 🌐 Python | 📅 2026-10-09
 
 * Note: "electrophysiology of neurons" (also called "ephys") is equivalent to the common term "neurophysiology". In neuroscience, unless it is mentioned explicitly, you can safely assume that "electrophysiology" is referring to that of *neuron cells* in particular, as opposed to electrophysiology of *non-neuron brain cells* like astrocytes, glia, etc.
 
@@ -113,7 +113,7 @@ Contributions are VERY welcome!
 
 * Calcium Imaging (and other 3D microscopic time-series imaging)
   * [CaImAn - Calcium Imaging Analysis](https://github.com/flatironinstitute/CaImAn) ⭐ 740 | 🐛 102 | 🌐 Python | 📅 2026-09-22
-  * [suite2p - Fast, scalable calcium imaging pipeline for cell detection (ROI extraction), neuropil correction, signal extraction, and spike deconvolution from two-photon microscopy data](https://github.com/MouseLand/suite2p) ⭐ 472 | 🐛 68 | 🌐 Python | 📅 2026-09-12
+  * [suite2p - Fast, scalable calcium imaging pipeline for cell detection (ROI extraction), neuropil correction, signal extraction, and spike deconvolution from two-photon microscopy data](https://github.com/MouseLand/suite2p) ⭐ 473 | 🐛 68 | 🌐 Python | 📅 2026-09-12
   * [V-NeuroStack - 3D time stacks for finding patterns in spontaneous activity of neurons in mouse brain slices](https://github.com/anaik12/bvis) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2022-09-02 (This is the only code link I could find for the paper at <https://doi.org/10.1002/jnr.25139> )
 
 * Microscopy (non-time-series images)
@@ -269,7 +269,7 @@ Contributions are VERY welcome!
 
 * [SONATA format for large-scale, efficient model specification and output data
   schema of neural simulations, co-developed by Allen Institute for Brain
-  Sciences and Blue Brain Project](https://github.com/AllenInstitute/sonata) ⭐ 68 | 🐛 39 | 🌐 Python | 📅 2025-11-24
+  Sciences and Blue Brain Project](https://github.com/AllenInstitute/sonata) ⭐ 69 | 🐛 39 | 🌐 Python | 📅 2025-11-24
 * [NSDF - Neuroscience Simulation Data Format, built on top of HDF5](https://github.com/nsdf/nsdf) ⭐ 7 | 🐛 3 | 🌐 Python | 📅 2024-11-04
 * [Neo - Python library for enabling interoperability of electrophysiological
   data, including conversion from proprietary file
@@ -377,4 +377,4 @@ Contributions are VERY welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
