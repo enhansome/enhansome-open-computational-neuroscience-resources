@@ -98,8 +98,8 @@
                     "id": 420284646,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-09T16:28:13Z",
-                    "open_issues": 56,
+                    "last_commit": "2026-10-10T12:27:38Z",
+                    "open_issues": 58,
                     "owner": "pynapple-org",
                     "repo": "pynapple",
                     "stars": 381,
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T19:39:15.501Z",
+    "last_updated": "2026-10-10T18:47:05.481Z",
     "original_repository_info": {
       "archived": false,
       "description": "A publicly-editable collection of open computational neuroscience resources",
@@ -824,7 +824,7 @@
       "open_issues": 5,
       "owner": "asoplata",
       "repo": "open-computational-neuroscience-resources",
-      "stars": 716,
+      "stars": 717,
       "topics": [
         "awesome",
         "awesome-list",
