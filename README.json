@@ -98,7 +98,7 @@
                     "id": 420284646,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-10T12:27:38Z",
+                    "last_commit": "2026-10-11T13:38:05Z",
                     "open_issues": 58,
                     "owner": "pynapple-org",
                     "repo": "pynapple",
@@ -198,7 +198,7 @@
                         "open_issues": 102,
                         "owner": "flatironinstitute",
                         "repo": "CaImAn",
-                        "stars": 740,
+                        "stars": 741,
                         "topics": [
                           "2-photon",
                           "calcium-imaging",
@@ -226,7 +226,7 @@
                         "open_issues": 68,
                         "owner": "MouseLand",
                         "repo": "suite2p",
-                        "stars": 473,
+                        "stars": 474,
                         "topics": [
                           "data-analysis",
                           "imaging",
@@ -476,7 +476,7 @@
                 "open_issues": 2,
                 "owner": "ProjectPyRhO",
                 "repo": "PyRhO",
-                "stars": 44,
+                "stars": 45,
                 "topics": [
                   "brain",
                   "brainweb",
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T18:47:05.481Z",
+    "last_updated": "2026-10-11T19:07:34.954Z",
     "original_repository_info": {
       "archived": false,
       "description": "A publicly-editable collection of open computational neuroscience resources",
