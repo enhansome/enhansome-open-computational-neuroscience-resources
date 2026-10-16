@@ -25,7 +25,7 @@ and a modern personal computer.**
 Note: This is intended as a list of resources to help with *neuroscientific*
 pursuits (trying to understand the brain as it exists), as opposed to *artificial intelligence* or *machine learning* pursuits (using brain-inspired mathematics and properties to engineer systems meant to accomplish a particular task). [More broadly, I've
 made a similar repo-list of general open science resources
-here](https://github.com/asoplata/open-science-resources) ⭐ 136 | 🐛 2 | 📅 2022-08-12.
+here](https://github.com/asoplata/open-science-resources) ⭐ 136 | 🐛 3 | 📅 2022-08-12.
 
 Contributions are VERY welcome!
 
@@ -52,7 +52,7 @@ Contributions are VERY welcome!
 ## Meta-resources
 
 * Open Hardware - [see this Open Science Resources
-  page](https://github.com/asoplata/open-science-resources#open-diy-hardware) ⭐ 136 | 🐛 2 | 📅 2022-08-12
+  page](https://github.com/asoplata/open-science-resources#open-diy-hardware) ⭐ 136 | 🐛 3 | 📅 2022-08-12
 * [SORTED - a list of interesting science ideas and links (cognitive/neuro & data science)](https://github.com/PTDZ/SORTED) ⭐ 28 | 🐛 0 | 📅 2025-08-10
 * [Allen Institute for Brain
   Science](https://alleninstitute.org/open-science-tools/)
@@ -84,7 +84,7 @@ Contributions are VERY welcome!
 
 #### Analysis Software For Electrophysiology
 
-* [Pynapple - "PYthon Neural Analysis Package" for neurophysiological data analysis](https://github.com/pynapple-org/pynapple) ⭐ 381 | 🐛 60 | 🌐 Python | 📅 2026-10-14
+* [Pynapple - "PYthon Neural Analysis Package" for neurophysiological data analysis](https://github.com/pynapple-org/pynapple) ⭐ 381 | 🐛 60 | 🌐 Python | 📅 2026-10-16
 
 * Note: "electrophysiology of neurons" (also called "ephys") is equivalent to the common term "neurophysiology". In neuroscience, unless it is mentioned explicitly, you can safely assume that "electrophysiology" is referring to that of *neuron cells* in particular, as opposed to electrophysiology of *non-neuron brain cells* like astrocytes, glia, etc.
 
@@ -133,7 +133,7 @@ Contributions are VERY welcome!
 
 #### Other Analysis Software
 
-* [DeepLabCut - Markerless pose estimation for quantifying behavior and movement kinematics in neuroscience experiments, using transfer learning from ImageNet-pretrained networks](https://github.com/DeepLabCut/DeepLabCut) ⭐ 5,790 | 🐛 65 | 🌐 Python | 📅 2026-10-13
+* [DeepLabCut - Markerless pose estimation for quantifying behavior and movement kinematics in neuroscience experiments, using transfer learning from ImageNet-pretrained networks](https://github.com/DeepLabCut/DeepLabCut) ⭐ 5,791 | 🐛 68 | 🌐 Python | 📅 2026-10-16
 * [NeuronUnit - Data-driven model validation for neuroscience](https://github.com/scidash/neuronunit) ⭐ 42 | 🐛 62 | 🌐 Jupyter Notebook | 📅 2021-07-18
 * [SpectraVis - Network visualization tool for functional brain connectivity in-browser](https://github.com/NeurophysVis/SpectraVis) ⭐ 37 | 🐛 21 | 🌐 JavaScript | 📅 2022-09-07
 * [bctnet - Brain Connectivity Toolbox for complex-network analysis](https://github.com/brainlife/BCT) ⭐ 31 | 🐛 5 | 🌐 MATLAB | 📅 2020-12-16
@@ -152,7 +152,7 @@ Contributions are VERY welcome!
 ### Simulation Software
 
 * [Jaxley - Differentiable neuron simulations on CPU, GPU, or TPU. Next-generation biophysical neuron simulator built on the JAX library.](https://github.com/jaxleyverse/jaxley) ⭐ 215 | 🐛 85 | 🌐 Python | 📅 2026-10-13
-* [sPyNNaker - A software package for running PyNN simulations on the SpiNNaker million core neuromorphic machine](https://github.com/SpiNNakerManchester/sPyNNaker) ⭐ 121 | 🐛 105 | 🌐 Python | 📅 2026-10-15
+* [sPyNNaker - A software package for running PyNN simulations on the SpiNNaker million core neuromorphic machine](https://github.com/SpiNNakerManchester/sPyNNaker) ⭐ 121 | 🐛 107 | 🌐 Python | 📅 2026-10-16
 * [PyRhO - Virtual laboratory for optogenetic simulation. Integrates with NEURON and Brian2 models.](https://github.com/ProjectPyRhO/PyRhO) ⭐ 45 | 🐛 2 | 🌐 Python | 📅 2023-07-24
   * [Prometheus - Related docker image for use with PyRhO via "Modelling as a Service"](https://github.com/ProjectPyRhO/Prometheus) ⭐ 0 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-06-15
 * [PyPNS - Python Peripheral Nerve Simulator](https://github.com/chlubba/PyPNS) ⭐ 4 | 🐛 2 | 🌐 Python | 📅 2025-03-30
@@ -220,7 +220,7 @@ Contributions are VERY welcome!
   science data repositories that may contain neuroscience data like
   [re3data](https://www.re3data.org/search?query=neuroscience), [see this Open
   Science Resources
-  page](https://github.com/asoplata/open-science-resources#open-data-repositories-and-services) ⭐ 136 | 🐛 2 | 📅 2022-08-12
+  page](https://github.com/asoplata/open-science-resources#open-data-repositories-and-services) ⭐ 136 | 🐛 3 | 📅 2022-08-12
 * [3D Brain Atlas Reconstructor](http://www.3dbars.org/)
 * [Allen Brain Atlas Data Portal](http://brain-map.org/)
   * [More detail
@@ -377,4 +377,4 @@ Contributions are VERY welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
