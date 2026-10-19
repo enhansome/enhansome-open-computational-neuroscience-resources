@@ -278,7 +278,7 @@
                     "language": "Python",
                     "license": "LGPL-3.0",
                     "last_commit": "2026-10-16T17:35:12Z",
-                    "open_issues": 68,
+                    "open_issues": 69,
                     "owner": "DeepLabCut",
                     "repo": "DeepLabCut",
                     "stars": 5794,
@@ -423,7 +423,7 @@
                 "id": 20801613,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T13:40:56Z",
+                "last_commit": "2026-10-19T14:01:38Z",
                 "open_issues": 107,
                 "owner": "SpiNNakerManchester",
                 "repo": "sPyNNaker",
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T17:29:18.810Z",
+    "last_updated": "2026-10-19T20:06:51.095Z",
     "original_repository_info": {
       "archived": false,
       "description": "A publicly-editable collection of open computational neuroscience resources",
