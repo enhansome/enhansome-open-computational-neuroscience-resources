@@ -98,7 +98,7 @@
                     "id": 420284646,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-22T18:24:13Z",
+                    "last_commit": "2026-10-23T15:51:08Z",
                     "open_issues": 59,
                     "owner": "pynapple-org",
                     "repo": "pynapple",
@@ -159,7 +159,7 @@
                         "open_issues": 20,
                         "owner": "MouseLand",
                         "repo": "Kilosort",
-                        "stars": 632,
+                        "stars": 633,
                         "topics": [
                           "electrophysiology",
                           "neuroscience",
@@ -277,11 +277,11 @@
                     "id": 126897385,
                     "language": "Python",
                     "license": "LGPL-3.0",
-                    "last_commit": "2026-10-22T15:20:25Z",
-                    "open_issues": 53,
+                    "last_commit": "2026-10-23T15:34:43Z",
+                    "open_issues": 51,
                     "owner": "DeepLabCut",
                     "repo": "DeepLabCut",
-                    "stars": 5798,
+                    "stars": 5800,
                     "topics": [
                       "animal-pose-estimation",
                       "behavior-analysis",
@@ -423,7 +423,7 @@
                 "id": 20801613,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T15:26:04Z",
+                "last_commit": "2026-10-23T10:50:03Z",
                 "open_issues": 105,
                 "owner": "SpiNNakerManchester",
                 "repo": "sPyNNaker",
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T18:44:00.873Z",
+    "last_updated": "2026-10-23T18:38:18.930Z",
     "original_repository_info": {
       "archived": false,
       "description": "A publicly-editable collection of open computational neuroscience resources",
