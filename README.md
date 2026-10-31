@@ -84,7 +84,7 @@ Contributions are VERY welcome!
 
 #### Analysis Software For Electrophysiology
 
-* [Pynapple - "PYthon Neural Analysis Package" for neurophysiological data analysis](https://github.com/pynapple-org/pynapple) ⭐ 382 | 🐛 59 | 🌐 Python | 📅 2026-10-24
+* [Pynapple - "PYthon Neural Analysis Package" for neurophysiological data analysis](https://github.com/pynapple-org/pynapple) ⭐ 382 | 🐛 59 | 🌐 Python | 📅 2026-10-31
 
 * Note: "electrophysiology of neurons" (also called "ephys") is equivalent to the common term "neurophysiology". In neuroscience, unless it is mentioned explicitly, you can safely assume that "electrophysiology" is referring to that of *neuron cells* in particular, as opposed to electrophysiology of *non-neuron brain cells* like astrocytes, glia, etc.
 
@@ -133,7 +133,7 @@ Contributions are VERY welcome!
 
 #### Other Analysis Software
 
-* [DeepLabCut - Markerless pose estimation for quantifying behavior and movement kinematics in neuroscience experiments, using transfer learning from ImageNet-pretrained networks](https://github.com/DeepLabCut/DeepLabCut) ⭐ 5,810 | 🐛 53 | 🌐 Python | 📅 2026-10-27
+* [DeepLabCut - Markerless pose estimation for quantifying behavior and movement kinematics in neuroscience experiments, using transfer learning from ImageNet-pretrained networks](https://github.com/DeepLabCut/DeepLabCut) ⭐ 5,810 | 🐛 57 | 🌐 Python | 📅 2026-10-31
 * [NeuronUnit - Data-driven model validation for neuroscience](https://github.com/scidash/neuronunit) ⭐ 42 | 🐛 62 | 🌐 Jupyter Notebook | 📅 2021-07-18
 * [SpectraVis - Network visualization tool for functional brain connectivity in-browser](https://github.com/NeurophysVis/SpectraVis) ⭐ 37 | 🐛 21 | 🌐 JavaScript | 📅 2022-09-07
 * [bctnet - Brain Connectivity Toolbox for complex-network analysis](https://github.com/brainlife/BCT) ⭐ 31 | 🐛 5 | 🌐 MATLAB | 📅 2020-12-16
@@ -377,4 +377,4 @@ Contributions are VERY welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
