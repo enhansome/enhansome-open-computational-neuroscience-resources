@@ -99,7 +99,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-31T15:18:14Z",
-                    "open_issues": 59,
+                    "open_issues": 60,
                     "owner": "pynapple-org",
                     "repo": "pynapple",
                     "stars": 382,
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T18:41:32.771Z",
+    "last_updated": "2026-11-01T19:05:15.861Z",
     "original_repository_info": {
       "archived": false,
       "description": "A publicly-editable collection of open computational neuroscience resources",

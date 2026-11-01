@@ -84,7 +84,7 @@ Contributions are VERY welcome!
 
 #### Analysis Software For Electrophysiology
 
-* [Pynapple - "PYthon Neural Analysis Package" for neurophysiological data analysis](https://github.com/pynapple-org/pynapple) ⭐ 382 | 🐛 59 | 🌐 Python | 📅 2026-10-31
+* [Pynapple - "PYthon Neural Analysis Package" for neurophysiological data analysis](https://github.com/pynapple-org/pynapple) ⭐ 382 | 🐛 60 | 🌐 Python | 📅 2026-10-31
 
 * Note: "electrophysiology of neurons" (also called "ephys") is equivalent to the common term "neurophysiology". In neuroscience, unless it is mentioned explicitly, you can safely assume that "electrophysiology" is referring to that of *neuron cells* in particular, as opposed to electrophysiology of *non-neuron brain cells* like astrocytes, glia, etc.
 
@@ -377,4 +377,4 @@ Contributions are VERY welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
