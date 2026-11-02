@@ -98,7 +98,7 @@
                     "id": 420284646,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-31T15:18:14Z",
+                    "last_commit": "2026-11-02T15:56:31Z",
                     "open_issues": 60,
                     "owner": "pynapple-org",
                     "repo": "pynapple",
@@ -223,10 +223,10 @@
                         "language": "Python",
                         "license": "GPL-3.0",
                         "last_commit": "2026-09-12T17:29:12Z",
-                        "open_issues": 70,
+                        "open_issues": 71,
                         "owner": "MouseLand",
                         "repo": "suite2p",
-                        "stars": 475,
+                        "stars": 476,
                         "topics": [
                           "data-analysis",
                           "imaging",
@@ -277,11 +277,11 @@
                     "id": 126897385,
                     "language": "Python",
                     "license": "LGPL-3.0",
-                    "last_commit": "2026-10-31T07:03:16Z",
+                    "last_commit": "2026-11-02T17:32:30Z",
                     "open_issues": 57,
                     "owner": "DeepLabCut",
                     "repo": "DeepLabCut",
-                    "stars": 5810,
+                    "stars": 5811,
                     "topics": [
                       "animal-pose-estimation",
                       "behavior-analysis",
@@ -424,7 +424,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-30T07:02:18Z",
-                "open_issues": 103,
+                "open_issues": 101,
                 "owner": "SpiNNakerManchester",
                 "repo": "sPyNNaker",
                 "stars": 122,
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T19:05:15.861Z",
+    "last_updated": "2026-11-02T22:51:14.146Z",
     "original_repository_info": {
       "archived": false,
       "description": "A publicly-editable collection of open computational neuroscience resources",
