@@ -133,7 +133,7 @@ Contributions are VERY welcome!
 
 #### Other Analysis Software
 
-* [DeepLabCut - Markerless pose estimation for quantifying behavior and movement kinematics in neuroscience experiments, using transfer learning from ImageNet-pretrained networks](https://github.com/DeepLabCut/DeepLabCut) ⭐ 5,811 | 🐛 52 | 🌐 Python | 📅 2026-11-04
+* [DeepLabCut - Markerless pose estimation for quantifying behavior and movement kinematics in neuroscience experiments, using transfer learning from ImageNet-pretrained networks](https://github.com/DeepLabCut/DeepLabCut) ⭐ 5,813 | 🐛 49 | 🌐 Python | 📅 2026-11-05
 * [NeuronUnit - Data-driven model validation for neuroscience](https://github.com/scidash/neuronunit) ⭐ 42 | 🐛 62 | 🌐 Jupyter Notebook | 📅 2021-07-18
 * [SpectraVis - Network visualization tool for functional brain connectivity in-browser](https://github.com/NeurophysVis/SpectraVis) ⭐ 37 | 🐛 21 | 🌐 JavaScript | 📅 2022-09-07
 * [bctnet - Brain Connectivity Toolbox for complex-network analysis](https://github.com/brainlife/BCT) ⭐ 31 | 🐛 5 | 🌐 MATLAB | 📅 2020-12-16
@@ -269,7 +269,7 @@ Contributions are VERY welcome!
 
 * [SONATA format for large-scale, efficient model specification and output data
   schema of neural simulations, co-developed by Allen Institute for Brain
-  Sciences and Blue Brain Project](https://github.com/AllenInstitute/sonata) ⭐ 69 | 🐛 39 | 🌐 Python | 📅 2025-11-24
+  Sciences and Blue Brain Project](https://github.com/AllenInstitute/sonata) ⭐ 70 | 🐛 39 | 🌐 Python | 📅 2025-11-24
 * [NSDF - Neuroscience Simulation Data Format, built on top of HDF5](https://github.com/nsdf/nsdf) ⭐ 7 | 🐛 3 | 🌐 Python | 📅 2024-11-04
 * [Neo - Python library for enabling interoperability of electrophysiological
   data, including conversion from proprietary file
@@ -377,4 +377,4 @@ Contributions are VERY welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._

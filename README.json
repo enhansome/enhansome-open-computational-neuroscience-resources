@@ -277,11 +277,11 @@
                     "id": 126897385,
                     "language": "Python",
                     "license": "LGPL-3.0",
-                    "last_commit": "2026-11-04T08:55:32Z",
-                    "open_issues": 52,
+                    "last_commit": "2026-11-05T08:56:26Z",
+                    "open_issues": 49,
                     "owner": "DeepLabCut",
                     "repo": "DeepLabCut",
-                    "stars": 5811,
+                    "stars": 5813,
                     "topics": [
                       "animal-pose-estimation",
                       "behavior-analysis",
@@ -743,7 +743,7 @@
                 "open_issues": 39,
                 "owner": "AllenInstitute",
                 "repo": "sonata",
-                "stars": 69,
+                "stars": 70,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:38:33.723Z"
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T20:53:17.736Z",
+    "last_updated": "2026-11-05T21:10:27.325Z",
     "original_repository_info": {
       "archived": false,
       "description": "A publicly-editable collection of open computational neuroscience resources",
