@@ -25,7 +25,7 @@ and a modern personal computer.**
 Note: This is intended as a list of resources to help with *neuroscientific*
 pursuits (trying to understand the brain as it exists), as opposed to *artificial intelligence* or *machine learning* pursuits (using brain-inspired mathematics and properties to engineer systems meant to accomplish a particular task). [More broadly, I've
 made a similar repo-list of general open science resources
-here](https://github.com/asoplata/open-science-resources) ⭐ 138 | 🐛 4 | 📅 2022-08-12.
+here](https://github.com/asoplata/open-science-resources) ⭐ 138 | 🐛 5 | 📅 2022-08-12.
 
 Contributions are VERY welcome!
 
@@ -52,7 +52,7 @@ Contributions are VERY welcome!
 ## Meta-resources
 
 * Open Hardware - [see this Open Science Resources
-  page](https://github.com/asoplata/open-science-resources#open-diy-hardware) ⭐ 138 | 🐛 4 | 📅 2022-08-12
+  page](https://github.com/asoplata/open-science-resources#open-diy-hardware) ⭐ 138 | 🐛 5 | 📅 2022-08-12
 * [SORTED - a list of interesting science ideas and links (cognitive/neuro & data science)](https://github.com/PTDZ/SORTED) ⭐ 29 | 🐛 0 | 📅 2025-08-10
 * [Allen Institute for Brain
   Science](https://alleninstitute.org/open-science-tools/)
@@ -220,7 +220,7 @@ Contributions are VERY welcome!
   science data repositories that may contain neuroscience data like
   [re3data](https://www.re3data.org/search?query=neuroscience), [see this Open
   Science Resources
-  page](https://github.com/asoplata/open-science-resources#open-data-repositories-and-services) ⭐ 138 | 🐛 4 | 📅 2022-08-12
+  page](https://github.com/asoplata/open-science-resources#open-data-repositories-and-services) ⭐ 138 | 🐛 5 | 📅 2022-08-12
 * [3D Brain Atlas Reconstructor](http://www.3dbars.org/)
 * [Allen Brain Atlas Data Portal](http://brain-map.org/)
   * [More detail
@@ -377,4 +377,4 @@ Contributions are VERY welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._

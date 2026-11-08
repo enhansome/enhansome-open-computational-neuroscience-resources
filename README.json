@@ -16,7 +16,7 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2022-08-12T15:33:07Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "asoplata",
             "repo": "open-science-resources",
             "stars": 138,
@@ -707,7 +707,7 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2022-08-12T15:33:07Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "asoplata",
             "repo": "open-science-resources",
             "stars": 138,
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T18:59:33.714Z",
+    "last_updated": "2026-11-08T18:59:22.728Z",
     "original_repository_info": {
       "archived": false,
       "description": "A publicly-editable collection of open computational neuroscience resources",
