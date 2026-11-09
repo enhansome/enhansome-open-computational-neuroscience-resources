@@ -84,7 +84,7 @@ Contributions are VERY welcome!
 
 #### Analysis Software For Electrophysiology
 
-* [Pynapple - "PYthon Neural Analysis Package" for neurophysiological data analysis](https://github.com/pynapple-org/pynapple) ⭐ 383 | 🐛 62 | 🌐 Python | 📅 2026-11-06
+* [Pynapple - "PYthon Neural Analysis Package" for neurophysiological data analysis](https://github.com/pynapple-org/pynapple) ⭐ 383 | 🐛 62 | 🌐 Python | 📅 2026-11-09
 
 * Note: "electrophysiology of neurons" (also called "ephys") is equivalent to the common term "neurophysiology". In neuroscience, unless it is mentioned explicitly, you can safely assume that "electrophysiology" is referring to that of *neuron cells* in particular, as opposed to electrophysiology of *non-neuron brain cells* like astrocytes, glia, etc.
 
@@ -102,7 +102,7 @@ Contributions are VERY welcome!
   \- SpykeViewer can consume electrophysiology data loaded by [Neo](http://neuralensemble.org/neo/)
 
 * Spike Sorting:
-  * [Kilosort - GPU-accelerated spike sorting for large-scale extracellular recordings, widely used with Neuropixels probes](https://github.com/MouseLand/Kilosort) ⭐ 636 | 🐛 26 | 🌐 Python | 📅 2026-09-25
+  * [Kilosort - GPU-accelerated spike sorting for large-scale extracellular recordings, widely used with Neuropixels probes](https://github.com/MouseLand/Kilosort) ⭐ 637 | 🐛 26 | 🌐 Python | 📅 2026-09-25
   * [Comparison of Spike Sorting Software - lists MANY tools and their properties. Last updated in 2017 so probably out of date.](https://simonster.github.io/SpikeSortingSoftware/)
   * [SpikeInterface - Spike sorting analysis specifically made for compatibility
     between different sorting algorithms, part of the Open Ephys project](https://open-ephys.org/spikeinterface)
@@ -151,7 +151,7 @@ Contributions are VERY welcome!
 
 ### Simulation Software
 
-* [Jaxley - Differentiable neuron simulations on CPU, GPU, or TPU. Next-generation biophysical neuron simulator built on the JAX library.](https://github.com/jaxleyverse/jaxley) ⭐ 218 | 🐛 86 | 🌐 Python | 📅 2026-10-26
+* [Jaxley - Differentiable neuron simulations on CPU, GPU, or TPU. Next-generation biophysical neuron simulator built on the JAX library.](https://github.com/jaxleyverse/jaxley) ⭐ 218 | 🐛 86 | 🌐 Python | 📅 2026-11-09
 * [sPyNNaker - A software package for running PyNN simulations on the SpiNNaker million core neuromorphic machine](https://github.com/SpiNNakerManchester/sPyNNaker) ⭐ 122 | 🐛 101 | 🌐 Python | 📅 2026-10-30
 * [PyRhO - Virtual laboratory for optogenetic simulation. Integrates with NEURON and Brian2 models.](https://github.com/ProjectPyRhO/PyRhO) ⭐ 46 | 🐛 2 | 🌐 Python | 📅 2023-07-24
   * [Prometheus - Related docker image for use with PyRhO via "Modelling as a Service"](https://github.com/ProjectPyRhO/Prometheus) ⭐ 0 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-06-15
@@ -377,4 +377,4 @@ Contributions are VERY welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
