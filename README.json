@@ -98,11 +98,11 @@
                     "id": 420284646,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-09T15:28:37Z",
-                    "open_issues": 62,
+                    "last_commit": "2026-11-10T19:10:16Z",
+                    "open_issues": 61,
                     "owner": "pynapple-org",
                     "repo": "pynapple",
-                    "stars": 383,
+                    "stars": 384,
                     "topics": [
                       "neuroscience-analysis",
                       "time-series"
@@ -159,7 +159,7 @@
                         "open_issues": 26,
                         "owner": "MouseLand",
                         "repo": "Kilosort",
-                        "stars": 637,
+                        "stars": 638,
                         "topics": [
                           "electrophysiology",
                           "neuroscience",
@@ -281,7 +281,7 @@
                     "open_issues": 50,
                     "owner": "DeepLabCut",
                     "repo": "DeepLabCut",
-                    "stars": 5817,
+                    "stars": 5818,
                     "topics": [
                       "animal-pose-estimation",
                       "behavior-analysis",
@@ -396,8 +396,8 @@
                 "id": 615220314,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-09T22:18:15Z",
-                "open_issues": 86,
+                "last_commit": "2026-11-10T15:57:43Z",
+                "open_issues": 84,
                 "owner": "jaxleyverse",
                 "repo": "jaxley",
                 "stars": 218,
@@ -423,8 +423,8 @@
                 "id": 20801613,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T07:02:18Z",
-                "open_issues": 101,
+                "last_commit": "2026-11-10T12:30:36Z",
+                "open_issues": 91,
                 "owner": "SpiNNakerManchester",
                 "repo": "sPyNNaker",
                 "stars": 122,
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T23:31:08.487Z",
+    "last_updated": "2026-11-10T20:57:41.056Z",
     "original_repository_info": {
       "archived": false,
       "description": "A publicly-editable collection of open computational neuroscience resources",
