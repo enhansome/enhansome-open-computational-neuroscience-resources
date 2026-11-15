@@ -281,7 +281,7 @@
                     "open_issues": 56,
                     "owner": "DeepLabCut",
                     "repo": "DeepLabCut",
-                    "stars": 5822,
+                    "stars": 5824,
                     "topics": [
                       "animal-pose-estimation",
                       "behavior-analysis",
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T19:24:18.698Z",
+    "last_updated": "2026-11-15T19:54:49.885Z",
     "original_repository_info": {
       "archived": false,
       "description": "A publicly-editable collection of open computational neuroscience resources",
