@@ -98,11 +98,11 @@
                     "id": 420284646,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-18T16:12:42Z",
+                    "last_commit": "2026-11-19T18:23:43Z",
                     "open_issues": 58,
                     "owner": "pynapple-org",
                     "repo": "pynapple",
-                    "stars": 384,
+                    "stars": 383,
                     "topics": [
                       "neuroscience-analysis",
                       "time-series"
@@ -223,10 +223,10 @@
                         "language": "Python",
                         "license": "GPL-3.0",
                         "last_commit": "2026-09-12T17:29:12Z",
-                        "open_issues": 71,
+                        "open_issues": 72,
                         "owner": "MouseLand",
                         "repo": "suite2p",
-                        "stars": 477,
+                        "stars": 478,
                         "topics": [
                           "data-analysis",
                           "imaging",
@@ -277,8 +277,8 @@
                     "id": 126897385,
                     "language": "Python",
                     "license": "LGPL-3.0",
-                    "last_commit": "2026-11-18T09:16:23Z",
-                    "open_issues": 55,
+                    "last_commit": "2026-11-19T15:47:50Z",
+                    "open_issues": 56,
                     "owner": "DeepLabCut",
                     "repo": "DeepLabCut",
                     "stars": 5827,
@@ -397,7 +397,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-18T15:24:51Z",
-                "open_issues": 85,
+                "open_issues": 86,
                 "owner": "jaxleyverse",
                 "repo": "jaxley",
                 "stars": 219,
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:15:00.957Z",
+    "last_updated": "2026-11-19T22:23:15.059Z",
     "original_repository_info": {
       "archived": false,
       "description": "A publicly-editable collection of open computational neuroscience resources",
@@ -824,7 +824,7 @@
       "open_issues": 5,
       "owner": "asoplata",
       "repo": "open-computational-neuroscience-resources",
-      "stars": 724,
+      "stars": 723,
       "topics": [
         "awesome",
         "awesome-list",
