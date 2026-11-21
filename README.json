@@ -223,7 +223,7 @@
                         "language": "Python",
                         "license": "GPL-3.0",
                         "last_commit": "2026-09-12T17:29:12Z",
-                        "open_issues": 72,
+                        "open_issues": 73,
                         "owner": "MouseLand",
                         "repo": "suite2p",
                         "stars": 478,
@@ -278,10 +278,10 @@
                     "language": "Python",
                     "license": "LGPL-3.0",
                     "last_commit": "2026-11-20T15:30:03Z",
-                    "open_issues": 58,
+                    "open_issues": 59,
                     "owner": "DeepLabCut",
                     "repo": "DeepLabCut",
-                    "stars": 5830,
+                    "stars": 5829,
                     "topics": [
                       "animal-pose-estimation",
                       "behavior-analysis",
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T21:55:27.850Z",
+    "last_updated": "2026-11-21T20:38:15.816Z",
     "original_repository_info": {
       "archived": false,
       "description": "A publicly-editable collection of open computational neuroscience resources",
