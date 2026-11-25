@@ -281,7 +281,7 @@
                     "open_issues": 58,
                     "owner": "DeepLabCut",
                     "repo": "DeepLabCut",
-                    "stars": 5834,
+                    "stars": 5835,
                     "topics": [
                       "animal-pose-estimation",
                       "behavior-analysis",
@@ -358,17 +358,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "The Brain Connectivity Toolbox: https://sites.google.com/site/bctnet/",
+                    "description": "A copy of the MATLAB Brain Connectivity Toolbox (Rubinov & Sporns) packaged so brainlife Apps can add it as a git submodule.",
                     "homepage": null,
                     "id": 322095496,
                     "language": "MATLAB",
                     "license": "MIT",
-                    "last_commit": "2020-12-16T21:12:41Z",
+                    "last_commit": "2026-11-25T05:51:43Z",
                     "open_issues": 5,
                     "owner": "brainlife",
                     "repo": "BCT",
                     "stars": 31,
-                    "topics": []
+                    "topics": [
+                      "brain-connectivity-toolbox",
+                      "brainlife",
+                      "connectome",
+                      "graph-theory",
+                      "matlab",
+                      "network-neuroscience"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:38:33.723Z"
                 }
@@ -397,7 +404,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-24T14:30:38Z",
-                "open_issues": 86,
+                "open_issues": 87,
                 "owner": "jaxleyverse",
                 "repo": "jaxley",
                 "stars": 220,
@@ -812,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T23:36:01.346Z",
+    "last_updated": "2026-11-25T23:14:40.917Z",
     "original_repository_info": {
       "archived": false,
       "description": "A publicly-editable collection of open computational neuroscience resources",
@@ -824,7 +831,7 @@
       "open_issues": 5,
       "owner": "asoplata",
       "repo": "open-computational-neuroscience-resources",
-      "stars": 723,
+      "stars": 725,
       "topics": [
         "awesome",
         "awesome-list",
